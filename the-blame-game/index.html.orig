@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html class="theme-light" lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The blame game</title>
+<link rel="stylesheet" href="/assets/built/screen.css?v=b776f2a215">
+<meta name="description" content="What can we learn from the post-pandemic inflation; digging into what was going on at Alameda Research; SBF appears unhinged; and how does the war in Ukraine end?" />
+<link rel="icon" href="https://thecontext.au/content/images/size/w256h256/2022/06/less-noise-square.png" type="image/png" />
+<link rel="canonical" href="https://thecontext.au/the-blame-game/" />
+<meta name="referrer" content="no-referrer-when-downgrade" />
+<meta property="og:site_name" content="The Context" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The blame game" />
+<meta property="og:description" content="What can we learn from the post-pandemic inflation; digging into what was going on at Alameda Research; SBF appears unhinged; and how does the war in Ukraine end?" />
+<meta property="og:url" content="https://thecontext.au/the-blame-game/" />
+<meta property="og:image" content="https://thecontext.au/content/images/2022/11/fiscal-monetary-inflation.jpg" />
+<meta property="article:published_time" content="2022-11-17T22:30:05.000Z" />
+<meta property="article:modified_time" content="2022-11-17T22:30:05.000Z" />
+<meta property="article:tag" content="Newsletter" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="The blame game" />
+<meta name="twitter:description" content="What can we learn from the post-pandemic inflation; digging into what was going on at Alameda Research; SBF appears unhinged; and how does the war in Ukraine end?" />
+<meta name="twitter:url" content="https://thecontext.au/the-blame-game/" />
+<meta name="twitter:image" content="https://thecontext.au/content/images/2022/11/fiscal-monetary-inflation.jpg" />
+<meta name="twitter:label1" content="Written by" />
+<meta name="twitter:data1" content="Justin Pyvis" />
+<meta name="twitter:label2" content="Filed under" />
+<meta name="twitter:data2" content="Newsletter" />
+<meta name="twitter:site" content="@TheContextAU" />
+<meta name="twitter:creator" content="@JustinPyvis" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="600" />
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "publisher": {
+        "@type": "Organization",
+        "name": "The Context",
+        "url": "https://thecontext.au/",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://thecontext.au/content/images/size/w256h256/2022/06/less-noise-square.png",
+            "width": 60,
+            "height": 60
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": "Justin Pyvis",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://thecontext.au/content/images/2022/12/575d216122e20ae511b7ebaad30346f424356f4155c2da4e30bb757e497d5a19.png",
+            "width": 100,
+            "height": 100
+        },
+        "url": "https://thecontext.au/author/justin/",
+        "sameAs": [
+            "https://thecontext.au",
+            "https://twitter.com/JustinPyvis"
+        ]
+    },
+    "headline": "The blame game",
+    "url": "https://thecontext.au/the-blame-game/",
+    "datePublished": "2022-11-17T22:30:05.000Z",
+    "dateModified": "2022-11-17T22:30:05.000Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://thecontext.au/content/images/2022/11/fiscal-monetary-inflation.jpg",
+        "width": 1200,
+        "height": 600
+    },
+    "keywords": "Newsletter",
+    "description": "What can we learn from the post-pandemic inflation; digging into what was going on at Alameda Research; SBF appears unhinged; and how does the war in Ukraine end?",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://thecontext.au/"
+    }
+}
+    </script>
+<meta name="generator" content="Ghost 5.33" />
+<link rel="alternate" type="application/rss+xml" title="The Context" href="https://thecontext.au/rss/" />
+<script defer src="https://cdn.jsdelivr.net/ghost/sodo-search@~1.1/umd/sodo-search.min.js" data-key="1b7c90b45ab20358e47646936f" data-styles="https://cdn.jsdelivr.net/ghost/sodo-search@~1.1/umd/main.css" data-sodo-search="https://thecontext.au/" crossorigin="anonymous"></script>
+<link href="https://thecontext.au/webmentions/receive/" rel="webmention" />
+<script defer src="/public/cards.min.js?v=b776f2a215"></script>
+<link rel="stylesheet" type="text/css" href="/public/cards.min.css?v=b776f2a215">
+<style>
+    .logo-text {
+    color: var(--primary-text-color);
+    font-size: 1.8rem;
+    font-weight: 800;
+}
+    blockquote:not([class]) {
+    margin: 2.8rem 0;
+    padding: 0 3rem;
+    border-left: 5px solid var(--brand-color);
+    color: var(--primary-text-color);
+    font-size: 1.9rem;
+    font-style: italic;
+    line-height: 1.5;
+    font-weight: 500;
+    letter-spacing: -0.03rem;
+    background-color: var(--white-color);
+}
+	.gh-content>blockquote+*,.gh-content>hr+*{
+    margin-top:0.5rem
+    }
+</style><style>:root {--ghost-accent-color: #487f7e;}</style>
+</head>
+<body class='post-template tag-newsletter is-head-middle-logo'>
+<div class="site">
+<header id="gh-head" class="gh-head gh-outer">
+<div class="gh-head-inner gh-inner">
+<div class="gh-head-brand">
+<div class="gh-head-brand-wrapper">
+<a class="gh-head-logo" href="https://thecontext.au">
+The Context
+</a>
+</div>
+<button class="gh-search gh-icon-btn" data-ghost-search><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" width="20" height="20"><path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg></button>
+<button class="gh-burger"></button>
+</div>
+<nav class="gh-head-menu">
+<ul class="nav">
+<li class="nav-home"><a href="https://thecontext.au/">Home</a></li>
+<li class="nav-about"><a href="https://thecontext.au/about/">About</a></li>
+</ul>
+</nav>
+<div class="gh-head-actions">
+<button class="gh-search gh-icon-btn" data-ghost-search><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" width="20" height="20"><path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg></button>
+</div>
+</div>
+</header>
+<div class="site-content">
+<main class="site-main">
+<article class="single post tag-newsletter">
+<header class="single-header gh-canvas">
+<div class="single-meta">
+<span class="single-meta-item single-meta-date">
+<time datetime="2022-11-18">
+18 Nov
+</time>
+</span>
+<span class="single-meta-item single-meta-length">
+5 min read
+</span>
+<span class="single-meta-item single-meta-tag">
+<a class="post-tag post-tag-newsletter" href="/tag/newsletter/">
+Newsletter
+</a>
+</span>
+</div>
+<h1 class="single-title">The blame game</h1>
+<div class="single-excerpt">
+What can we learn from the post-pandemic inflation; digging into what was going on at Alameda Research; SBF appears unhinged; and how does the war in Ukraine end?
+</div>
+<figure class="single-media kg-width-wide">
+<div class="u-placeholder horizontal">
+<img class="u-object-fit" srcset="/content/images/size/w400/2022/11/fiscal-monetary-inflation.jpg 400w,
+/content/images/size/w750/2022/11/fiscal-monetary-inflation.jpg 750w,
+/content/images/size/w960/2022/11/fiscal-monetary-inflation.jpg 960w,
+/content/images/size/w1140/2022/11/fiscal-monetary-inflation.jpg 1140w" sizes="(min-width: 1200px) 920px, 92vw" src="/content/images/size/w960/2022/11/fiscal-monetary-inflation.jpg" alt="The blame game">
+</div>
+<figcaption>Supply factors and excessive demand stimulus combined to create today's inflation. <a href="https://twitter.com/steve_hanke/status/1536449579394035712">Source</a>.</figcaption>
+</figure>
+</header>
+<div class="single-content gh-content gh-canvas">
+<h2 id="1%E2%80%94the-blame-game">1—The blame game</h2><p>Who or what is responsible for the wave of post-pandemic inflation, and what lessons can we learn from it? Those were questions recently posed by Glenn Hubbard, who first provided a bit of background:</p><blockquote>"During the pandemic recovery, supply factors such as high energy prices, broken supply chains and business closures played a part in fuelling inflation. Research by Julian di Giovanni at the Federal Reserve Bank of New York suggests that supply shocks may account for 40 per cent of inflation, with the remaining 60 per cent explained by shocks to aggregate demand. Certainly excess demand remains a very important generator of high inflation."</blockquote><p>Central banks "raised demand in an economy hit by supply constraints", then lost control of inflation by waiting too long to tighten monetary policy. But Hubbard points out that it takes two to tango:</p><blockquote>"While the initial economic shock reflected supply chain disruptions and lockdowns, there were real risks of sharp declines in aggregate demand from job losses and lost production and investment. Fast-moving responses such as the Cares Act, passed in March 2020, focused on maintaining worker incomes and business continuity during the lockdown. Early action did forestall a collapse in aggregate demand but as the economy's recovery took hold, additional federal spending — particularly the blowout in the American Rescue Act — added to demand in a supply-constrained economy. Again, this proved a recipe for inflation."</blockquote><p>You can read Hubbard's full essay <a href="https://www.ft.com/content/48d41445-544d-41e9-891f-3b50a2f1a3eb">here</a> (~3 minute read), which advises policymakers to "consider pre-committing to more modest spending in response" to future crises, and that the central bank "should pursue monetary policy consistent with its long-term objectives for inflation".</p><hr><h2 id="2%E2%80%94what-happened-at-alameda-research">2—What happened at Alameda Research</h2><blockquote>"If you want to read a poorly researched fluff piece about Sam Bankman-Fried, feel free to go to the New York Times. If you want to understand what happened at Alameda Research and how Sam Bankman-Fried (SBF), Sam Trabucco, and Caroline Ellison incinerated over $20 billion dollars of fund profits and FTX user deposits, read this article."</blockquote><p>That's from <em>milky eggs</em>, which published a detailed article this week digging into what was going on at Alameda Research, SBF's hedge fund that was playing fast and loose with funds held on behalf of clients by crypto exchange FTX. </p><p>What is especially puzzling is that "FTX and Alameda together were enormously profitable", which means:</p><blockquote>"Somehow, it seems as though Alameda and FTX managed to burn through &gt;$15 billion dollars' worth of profits (likely more). This is an incredible shortfall, and, remarkably, no comprehensive account to date has emerged showing exactly how this came about! <br><br>We may never really know where all of the money went. However, we provide a number of separate hypotheses which, if combined together, could plausibly account for losses of $15 billion or more."</blockquote><p>As for SBF himself, he may not have been all he was cracked up to be:</p><blockquote>"Perhaps more tellingly, the Financial Times reported that SBF is remarkably bad at League of Legends. While this may initially seem like a frivolous observation, it is actually shocking that SBF was unable to rank higher than the Bronze or Silver league after years of regular play across hundreds if not thousands of individual games. It is reflective of an incredibly impaired level of cognition, much like someone who was unable to learn how to ride a bicycle after an entire month of practice or someone who never progresses past the level of an average elementary school student after five years' of daily piano practice. To me, this is one of the strongest indications possible that SBF is, to be blunt, 'not entirely there'."</blockquote><p>Do check out the full post <a href="https://milkyeggs.com/?p=175">here</a> (~22 minute read), which – all speculative at this stage, of course – includes how Alameda's inexperienced inner circle probably overrated their own trading abilities, had extremely poor bookkeeping practices, which eventually led to them being blindsided by "enormous losses...[and] likely tempted SBF et al. to shore up what they hoped was a temporary deficit with customers' deposits from FTX" (according to <a href="https://www.reuters.com/technology/ftxs-bankman-fried-begged-rescue-even-he-revealed-huge-holes-firms-books-2022-11-16/">Reuters</a>, the chief technology officer built a backdoor into the bookkeeping software to allow "Alameda to withdraw crypto deposits without triggering internal red flags").</p><hr><h2 id="3%E2%80%94unhinged">3—Unhinged</h2><figure class="kg-card kg-image-card kg-card-hascaption"><a href="https://twitter.com/AutismCapital/status/1592984494814171137"><img src="https://thecontext.au/content/images/2022/11/image-7.png" class="kg-image" alt loading="lazy" width="638" height="735" srcset="https://thecontext.au/content/images/size/w600/2022/11/image-7.png 600w, https://thecontext.au/content/images/2022/11/image-7.png 638w"></a><figcaption>Be sure to read the full exchange <a href="https://www.vox.com/future-perfect/23462333/sam-bankman-fried-ftx-cryptocurrency-effective-altruism-crypto-bahamas-philanthropy">here</a>, in which SBF claims he didn't realise "leverage wasn’t ~$5b, it was ~$13b", and that because he "was on the cover of every magazine", he got "overconfident and careless".</figcaption></figure><hr><h2 id="4%E2%80%94how-does-the-war-in-ukraine-end">4—How does the war in Ukraine end?</h2><p>Richard Hanania recently sat down with Chris Nicholson to discuss all things Ukraine, "with a specific focus on how the conflict might end". Discussing Ukraine's recent offensive victories, Nicholson says that a lot of it comes down to "what is within HIMARS range [a US-made mounted multiple rocket launcher]":</p><blockquote>"That's the short of it. So since Ukraine has seized this territory, what we already begin to see happening is Russia is having to relocate all of its ammo depots and a lot of its command posts. It's got to relocate all of that out of HIMARS range and that's what these explosions are showing you."</blockquote><p>Asked whether Donetsk and Luhansk are more important that the recently recaptured Kherson, Nicholson adds that:</p><blockquote>"It's interesting every step of the way how much politics overrides tactics and strategy in this war. And I think that's true for both sides. There are many political considerations. For Russia, it's launching ineffective piecemeal attacks here, largely for political reasons. It's kind of a military-political compromise. And because of that, it's been piecemeal, Russian mobilized men in with little training, just throwing them into existing units and sending them into the woodchipper. I think it's in Ukraine's interest to basically let that continue. If Ukraine keeps the pressure up, that forces Russia to keep sending its mobilized guys in a trickle before they're fully trained."</blockquote><p>In terms of possible victory conditions for Ukraine, Nicholson provides an optimistic scenario:</p><blockquote>"[I]t's correct that winter favours it [Ukraine] more. It breaks through Svatove and Kreminna within the next couple months. And after that, it sweeps up all of this territory in Luhansk all the way up to Starobilsk like I've been talking about. It successfully defends and holds off Russia's assaults in Donetsk. And what's more, it successfully continues to pressure Russia so much that Russia keeps sending mobilized men to attack in Donetsk too early."</blockquote><p>You can read or watch the full exchange <a href="https://richardhanania.substack.com/p/video-and-transcript-how-does-the">here</a> (~60 minute read / 80 minute listen), in which many more scenarios are considered, and that they disagree about for how long this will drag out.</p><hr><h2 id="5%E2%80%94further-reading">5—Further reading...</h2><p>📣 "<a href="https://www.reuters.com/breakingviews/musk-needs-third-america-pay-twitter-2022-11-15/">Put in context</a>, Musk has a daunting task. Twitter would need to get around 6% of the U.S. digital advertising market, per IAB, or 115 million people paying $8 a month for a Twitter Blue subscription — a third of the U.S. population – assuming margins stay the same."</p><p>🚀 The much-delayed NASA's Artemis I Mega Rocket <a href="https://www.nasa.gov/press-release/liftoff-nasa-s-artemis-i-mega-rocket-launches-orion-to-moon">finally took off</a> in what is NASA's first foray into space since 2011.</p><p>🙈 FTX <a href="https://bettermarkets.org/newsroom/ftx-was-registered-with-and-licensed-by-the-cftc-which-failed-to-properly-regulate-or-supervise-it-and-its-innumerable-former-cftc-officials/">was regulated</a> by the US Commodity Futures Trading Commission (CFTC), which "failed miserably at that and missed what now appears to be multiple failures at FTX to meet fundamental corporate governance standards if not also outright illegal conduct".</p><p>🧪 "China's coronavirus test providers <a href="https://www.ft.com/content/2e3f9397-6745-45a1-ae7b-a1a6f7d7aed4">have reported</a> a surge in unpaid fees as cash-strapped local governments struggle to fund a mass testing programme that is central to President Xi Jinping's zero-Covid policy... [raising] questions about the financial sustainability of the zero-Covid policy, which relies on large swaths of the population taking PCR tests every few days, mostly paid for by local governments."</p><p>💸 Japanese billionaire Masayoshi Son "<a href="https://www.ft.com/content/4e709f78-48fc-4713-8904-cf1d8588116c">owes SoftBank</a> close to $5bn because of growing losses on the Japanese conglomerate's technology bets, which have also rendered the value of his stake in the group's second Vision Fund worthless".</p>
+</div>
+<div class="gh-canvas">
+<footer class="single-footer">
+<div class="single-footer-left">
+<div class="navigation navigation-previous">
+<a class="navigation-link" href="/an-infinite-appetite-for-risk/" aria-label="Previous post">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon navigation-icon">
+<path d="M26.667 14.667v2.667h-16L18 24.667l-1.893 1.893L5.547 16l10.56-10.56L18 7.333l-7.333 7.333h16z"></path>
+</svg> </a>
+</div>
+</div>
+<div class="single-footer-middle">
+</div>
+<div class="single-footer-right">
+<div class="navigation navigation-next">
+<a class="navigation-link" href="/less-effective-altruism/" aria-label="Next post">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon navigation-icon">
+<path d="M5.333 14.667v2.667h16L14 24.667l1.893 1.893L26.453 16 15.893 5.44 14 7.333l7.333 7.333h-16z"></path>
+</svg> </a>
+</div>
+</div>
+</footer>
+</div>
+</article>
+<section class="related-wrapper gh-canvas">
+<h3 class="related-title">You might also like...</h3>
+<div class="related-feed">
+<article class="feed public post">
+<div class="feed-calendar">
+<div class="feed-calendar-month">
+03
+</div>
+<div class="feed-calendar-day">
+Feb
+</div>
+</div>
+<h2 class="feed-title">False narratives</h2>
+<div class="feed-right">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon icon-star">
+<path d="M6 8v-2c0-3.313 2.687-6 6-6 3.312 0 6 2.687 6 6v2h-2v-2c0-2.206-1.795-4-4-4s-4 1.794-4 4v2h-2zm-3 2v14h18v-14h-18z" /></path>
+</svg> <div class="feed-length">
+6 min read
+</div>
+</div>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon feed-icon">
+<path d="M11.453 22.107L17.56 16l-6.107-6.12L13.333 8l8 8-8 8-1.88-1.893z"></path>
+</svg>
+<a class="u-permalink" href="/false-narratives/" aria-label="False narratives"></a>
+</article> <article class="feed public post">
+<div class="feed-calendar">
+<div class="feed-calendar-month">
+01
+</div>
+<div class="feed-calendar-day">
+Feb
+</div>
+</div>
+<h2 class="feed-title">Immaculate disinflation</h2>
+<div class="feed-right">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon icon-star">
+<path d="M6 8v-2c0-3.313 2.687-6 6-6 3.312 0 6 2.687 6 6v2h-2v-2c0-2.206-1.795-4-4-4s-4 1.794-4 4v2h-2zm-3 2v14h18v-14h-18z" /></path>
+</svg> <div class="feed-length">
+4 min read
+</div>
+</div>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon feed-icon">
+<path d="M11.453 22.107L17.56 16l-6.107-6.12L13.333 8l8 8-8 8-1.88-1.893z"></path>
+</svg>
+<a class="u-permalink" href="/immaculate-disinflation/" aria-label="Immaculate disinflation"></a>
+</article> <article class="feed public post">
+<div class="feed-calendar">
+<div class="feed-calendar-month">
+30
+</div>
+<div class="feed-calendar-day">
+Jan
+</div>
+</div>
+<h2 class="feed-title">Covid and obesity</h2>
+<div class="feed-right">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon icon-star">
+<path d="M6 8v-2c0-3.313 2.687-6 6-6 3.312 0 6 2.687 6 6v2h-2v-2c0-2.206-1.795-4-4-4s-4 1.794-4 4v2h-2zm-3 2v14h18v-14h-18z" /></path>
+</svg> <div class="feed-length">
+5 min read
+</div>
+</div>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon feed-icon">
+<path d="M11.453 22.107L17.56 16l-6.107-6.12L13.333 8l8 8-8 8-1.88-1.893z"></path>
+</svg>
+<a class="u-permalink" href="/covid-and-obesity/" aria-label="Covid and obesity"></a>
+</article> <article class="feed public post">
+<div class="feed-calendar">
+<div class="feed-calendar-month">
+27
+</div>
+<div class="feed-calendar-day">
+Jan
+</div>
+</div>
+<h2 class="feed-title">The Boomer ascendancy</h2>
+<div class="feed-right">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon icon-star">
+<path d="M6 8v-2c0-3.313 2.687-6 6-6 3.312 0 6 2.687 6 6v2h-2v-2c0-2.206-1.795-4-4-4s-4 1.794-4 4v2h-2zm-3 2v14h18v-14h-18z" /></path>
+</svg> <div class="feed-length">
+4 min read
+</div>
+</div>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon feed-icon">
+<path d="M11.453 22.107L17.56 16l-6.107-6.12L13.333 8l8 8-8 8-1.88-1.893z"></path>
+</svg>
+<a class="u-permalink" href="/the-boomer-ascendancy/" aria-label="The Boomer ascendancy"></a>
+</article> <article class="feed public post">
+<div class="feed-calendar">
+<div class="feed-calendar-month">
+25
+ </div>
+<div class="feed-calendar-day">
+Jan
+</div>
+</div>
+<h2 class="feed-title">Why not the coin?</h2>
+<div class="feed-right">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon icon-star">
+<path d="M6 8v-2c0-3.313 2.687-6 6-6 3.312 0 6 2.687 6 6v2h-2v-2c0-2.206-1.795-4-4-4s-4 1.794-4 4v2h-2zm-3 2v14h18v-14h-18z" /></path>
+</svg> <div class="feed-length">
+5 min read
+</div>
+</div>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon feed-icon">
+<path d="M11.453 22.107L17.56 16l-6.107-6.12L13.333 8l8 8-8 8-1.88-1.893z"></path>
+</svg>
+<a class="u-permalink" href="/why-not-the-coin/" aria-label="Why not the coin?"></a>
+</article> </div>
+</section>
+</main>
+</div>
+<footer class="gh-foot gh-outer">
+<div class="gh-foot-inner gh-inner">
+<div class="gh-copyright">
+The Context © 2023
+</div>
+<nav class="gh-foot-menu">
+<ul class="nav">
+<li class="nav-sign-up"><a href="#/portal/">Sign up</a></li>
+<li class="nav-privacy"><a href="https://thecontext.au/privacy/">Privacy</a></li>
+<li class="nav-terms"><a href="https://thecontext.au/terms/">Terms</a></li>
+<li class="nav-contact"><a href="https://thecontext.au/contact/">Contact</a></li>
+</ul>
+</nav>
+<div class="gh-powered-by">
+<a href="https://ghost.org/" target="_blank" rel="noopener">Powered by Ghost</a>
+</div>
+</div>
+</footer>
+</div>
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="pswp__bg"></div>
+<div class="pswp__scroll-wrap">
+<div class="pswp__container">
+<div class="pswp__item"></div>
+<div class="pswp__item"></div>
+<div class="pswp__item"></div>
+</div>
+<div class="pswp__ui pswp__ui--hidden">
+<div class="pswp__top-bar">
+<div class="pswp__counter"></div>
+<button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+<button class="pswp__button pswp__button--share" title="Share"></button>
+<button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+<button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+<div class="pswp__preloader">
+<div class="pswp__preloader__icn">
+<div class="pswp__preloader__cut">
+<div class="pswp__preloader__donut"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+<div class="pswp__share-tooltip"></div>
+</div>
+<button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)"></button>
+<button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)"></button>
+<div class="pswp__caption">
+<div class="pswp__caption__center"></div>
+</div>
+</div>
+</div>
+</div>
+<script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous">
+</script>
+<script src='/assets/built/main.min.js?v=b776f2a215'></script>
+</body>
+</html>

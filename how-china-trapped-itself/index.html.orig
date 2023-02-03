@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html class="theme-light" lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>How China trapped itself</title>
+<link rel="stylesheet" href="/assets/built/screen.css?v=b776f2a215">
+<meta name="description" content="China&#x27;s development model has left policymakers in a bind; Liz Truss is no Margaret Thatcher; China&#x27;s growth is slowing; and how remove work has affected housing demand (and prices)." />
+<link rel="icon" href="https://thecontext.au/content/images/size/w256h256/2022/06/less-noise-square.png" type="image/png" />
+<link rel="canonical" href="https://thecontext.au/how-china-trapped-itself/" />
+<meta name="referrer" content="no-referrer-when-downgrade" />
+<meta property="og:site_name" content="The Context" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="How China trapped itself" />
+<meta property="og:description" content="China&#x27;s development model has left policymakers in a bind; Liz Truss is no Margaret Thatcher; China&#x27;s growth is slowing; and how remove work has affected housing demand (and prices)." />
+<meta property="og:url" content="https://thecontext.au/how-china-trapped-itself/" />
+<meta property="og:image" content="https://thecontext.au/content/images/2022/10/china-debt-cartoon-oct-22.png" />
+<meta property="article:published_time" content="2022-10-06T22:30:30.000Z" />
+<meta property="article:modified_time" content="2022-10-06T22:30:30.000Z" />
+<meta property="article:tag" content="Newsletter" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="How China trapped itself" />
+<meta name="twitter:description" content="China&#x27;s development model has left policymakers in a bind; Liz Truss is no Margaret Thatcher; China&#x27;s growth is slowing; and how remove work has affected housing demand (and prices)." />
+<meta name="twitter:url" content="https://thecontext.au/how-china-trapped-itself/" />
+<meta name="twitter:image" content="https://thecontext.au/content/images/2022/10/china-debt-cartoon-oct-22.png" />
+<meta name="twitter:label1" content="Written by" />
+<meta name="twitter:data1" content="Justin Pyvis" />
+<meta name="twitter:label2" content="Filed under" />
+<meta name="twitter:data2" content="Newsletter" />
+<meta name="twitter:site" content="@TheContextAU" />
+<meta name="twitter:creator" content="@JustinPyvis" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="796" />
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "publisher": {
+        "@type": "Organization",
+        "name": "The Context",
+        "url": "https://thecontext.au/",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://thecontext.au/content/images/size/w256h256/2022/06/less-noise-square.png",
+            "width": 60,
+            "height": 60
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": "Justin Pyvis",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://thecontext.au/content/images/2022/12/575d216122e20ae511b7ebaad30346f424356f4155c2da4e30bb757e497d5a19.png",
+            "width": 100,
+            "height": 100
+        },
+        "url": "https://thecontext.au/author/justin/",
+        "sameAs": [
+            "https://thecontext.au",
+            "https://twitter.com/JustinPyvis"
+        ]
+    },
+    "headline": "How China trapped itself",
+    "url": "https://thecontext.au/how-china-trapped-itself/",
+    "datePublished": "2022-10-06T22:30:30.000Z",
+    "dateModified": "2022-10-06T22:30:30.000Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://thecontext.au/content/images/2022/10/china-debt-cartoon-oct-22.png",
+        "width": 1200,
+        "height": 796
+    },
+    "keywords": "Newsletter",
+    "description": "China&#x27;s development model has left policymakers in a bind; Liz Truss is no Margaret Thatcher; China&#x27;s growth is slowing; and how remove work has affected housing demand (and prices).",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://thecontext.au/"
+    }
+}
+    </script>
+<meta name="generator" content="Ghost 5.33" />
+<link rel="alternate" type="application/rss+xml" title="The Context" href="https://thecontext.au/rss/" />
+<script defer src="https://cdn.jsdelivr.net/ghost/sodo-search@~1.1/umd/sodo-search.min.js" data-key="1b7c90b45ab20358e47646936f" data-styles="https://cdn.jsdelivr.net/ghost/sodo-search@~1.1/umd/main.css" data-sodo-search="https://thecontext.au/" crossorigin="anonymous"></script>
+<link href="https://thecontext.au/webmentions/receive/" rel="webmention" />
+<script defer src="/public/cards.min.js?v=b776f2a215"></script>
+<link rel="stylesheet" type="text/css" href="/public/cards.min.css?v=b776f2a215">
+<style>
+    .logo-text {
+    color: var(--primary-text-color);
+    font-size: 1.8rem;
+    font-weight: 800;
+}
+    blockquote:not([class]) {
+    margin: 2.8rem 0;
+    padding: 0 3rem;
+    border-left: 5px solid var(--brand-color);
+    color: var(--primary-text-color);
+    font-size: 1.9rem;
+    font-style: italic;
+    line-height: 1.5;
+    font-weight: 500;
+    letter-spacing: -0.03rem;
+    background-color: var(--white-color);
+}
+	.gh-content>blockquote+*,.gh-content>hr+*{
+    margin-top:0.5rem
+    }
+</style><style>:root {--ghost-accent-color: #487f7e;}</style>
+</head>
+<body class='post-template tag-newsletter is-head-middle-logo'>
+<div class="site">
+<header id="gh-head" class="gh-head gh-outer">
+<div class="gh-head-inner gh-inner">
+<div class="gh-head-brand">
+<div class="gh-head-brand-wrapper">
+<a class="gh-head-logo" href="https://thecontext.au">
+The Context
+</a>
+</div>
+<button class="gh-search gh-icon-btn" data-ghost-search><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" width="20" height="20"><path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg></button>
+<button class="gh-burger"></button>
+</div>
+<nav class="gh-head-menu">
+<ul class="nav">
+<li class="nav-home"><a href="https://thecontext.au/">Home</a></li>
+<li class="nav-about"><a href="https://thecontext.au/about/">About</a></li>
+</ul>
+</nav>
+<div class="gh-head-actions">
+<button class="gh-search gh-icon-btn" data-ghost-search><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" width="20" height="20"><path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg></button>
+</div>
+</div>
+</header>
+<div class="site-content">
+<main class="site-main">
+<article class="single post tag-newsletter">
+<header class="single-header gh-canvas">
+<div class="single-meta">
+<span class="single-meta-item single-meta-date">
+<time datetime="2022-10-07">
+07 Oct
+</time>
+</span>
+<span class="single-meta-item single-meta-length">
+5 min read
+</span>
+<span class="single-meta-item single-meta-tag">
+<a class="post-tag post-tag-newsletter" href="/tag/newsletter/">
+Newsletter
+</a>
+</span>
+</div>
+<h1 class="single-title">How China trapped itself</h1>
+<div class="single-excerpt">
+China&#x27;s development model has left policymakers in a bind; Liz Truss is no Margaret Thatcher; China&#x27;s growth is slowing; and how remove work has affected housing demand (and prices).
+</div>
+<figure class="single-media kg-width-wide">
+<div class="u-placeholder horizontal">
+<img class="u-object-fit" srcset="/content/images/size/w400/2022/10/china-debt-cartoon-oct-22.png 400w,
+/content/images/size/w750/2022/10/china-debt-cartoon-oct-22.png 750w,
+/content/images/size/w960/2022/10/china-debt-cartoon-oct-22.png 960w,
+/content/images/size/w1140/2022/10/china-debt-cartoon-oct-22.png 1140w" sizes="(min-width: 1200px) 920px, 92vw" src="/content/images/size/w960/2022/10/china-debt-cartoon-oct-22.png" alt="Cartoon showing China&#x27;s struggling with rising debt.">
+</div>
+<figcaption>China has a growth problem. <a href="https://www.japantimes.co.jp/opinion/2017/10/11/commentary/world-commentary/dont-expect-chinas-new-leaders-change/">Source</a>.</figcaption>
+</figure>
+</header>
+<div class="single-content gh-content gh-canvas">
+<h2 id="1%E2%80%94how-china-trapped-itself">1—How China trapped itself</h2><p>China has led global growth for over two decades. But policymakers now find themselves in "a hidden trap" of their own making, riddled with macroeconomic imbalances that are a result of the catch-up model it used to achieve that growth:</p><blockquote>"Its high-investment development model was designed to resolve China's extraordinary investment deficiency, but nearly four decades later, it has left China with an excessively high investment rate. According to the World Bank, investment typically makes up around 25 percent of global GDP, ranging from 17 to 23 percent for more mature economies to 28 to 32 percent for developing economies in their high-growth stages. For a decade, however, China has invested an amount equal to 40 to 50 percent of its annual GDP every year."</blockquote><p>That's from Michael Pettis, who has been warning of the imbalance for well over a decade. According to Pettis:</p><blockquote>"It must reduce this unusually high level by a lot, but with growth so dependent on investment, it probably cannot do so without a sharp slowdown in overall economic activity."</blockquote><p>Is that an outcome that policymakers, or Xi Jinping, are willing to tolerate? Already local governments, which have done very well out of the property investment boom, "have been eager, almost desperate, to revive the property market". But Pettis thinks the government will probably just swap one misallocation for another:</p><blockquote>"More likely is that the Chinese government will compensate for the adverse impact of a slower and smaller property market, at least partly, by stepping up spending on infrastructure. Beijing already seems willing to follow this path and has told local governments that they must accelerate or increase their infrastructure spending plans, or both. <br><br>But building more bridges and high-speed railway systems still means allowing growth to be driven mainly by nonproductive investment, as it has been during the past decade. This will cause China's debt burden to continue to rise and resources to be misallocated until the economy can no longer sustain the consequences. When that has happened in previous cases, the result has usually been a very disruptive adjustment, often in the form of a financial crisis akin to Brazil's in the early 1980s."</blockquote><p>You can read Pettis' full article <a href="https://www.foreignaffairs.com/china/how-china-trapped-itself">here</a> (~8 minute read), which concludes that another, more sustainable outcome – rebalancing away from state-directed investment towards household consumption – "is extremely difficult to accomplish politically", because of the "distribution of political power in China". </p><hr><h2 id="2%E2%80%94liz-truss-history-lesson">2—Liz Truss' history lesson</h2><p>It only took a week but it's now clear that Liz Truss is no Margaret Thatcher. So writes Oliver Hartwich, who starts with a flashback to 1981:</p><blockquote>"The British prime minister received an unflattering open letter. Its signatories were 364 economists, all united in condemning her economic management. <br><br>'We believe that a large number of economists in British universities, whatever their politics, think the Government's present economic policies to be wrong and for that, for the sake of the country – and the profession – it is time we all spoke up,' the letter stated. <br><br>The prime minister ignored it. And rightly so. Because as history showed, Margaret Thatcher eventually restored fiscal and monetary discipline with the enormous tax increases in her 1981 budget."</blockquote><p>The Thatcher budget was a painful dose of fiscal discipline, "increasing taxes by £4 billion, the equivalent of about 2 percent of GDP". Truss' mini budget – at least what was initially proposed – tried to do precisely the opposite:</p><blockquote>"Today, as then, British public finances are in disarray, inflation and interest rates are on the rise, and the economy is stuttering. But instead of increasing taxes by 2 percent of GDP, Truss plans to cut taxes by the same amount. <br><br>What is dressed up by Truss as a Thatcherite supply-side reform is instead an uber-Keynesian stimulus."</blockquote><p>Hartwich admires the "ambition" of Truss and her chancellor, Kwasi Kwarteng, to break the 16-year economic rot and "lift growth, remove supply constraints and liberalise the British economy". But "they should have studied her example more closely", especially how Thatcher – "at least in her early years as PM – listened to her economic advisors and was keen not to spook financial markets".</p><p>You can find Hartwich's full article in Newsroom <a href="https://www.newsroom.co.nz/comment/liz-truss-failed-bid-to-become-a-21st-century-margaret-thatcher">here</a> (~4 minute read).</p><hr><h2 id="3%E2%80%94chinas-slowing-growth">3—China's slowing growth</h2><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://thecontext.au/content/images/2022/10/image-4.png" class="kg-image" alt="Image showing China's growth over time. Click to zoom." loading="lazy" width="2000" height="691" srcset="https://thecontext.au/content/images/size/w600/2022/10/image-4.png 600w, https://thecontext.au/content/images/size/w1000/2022/10/image-4.png 1000w, https://thecontext.au/content/images/size/w1600/2022/10/image-4.png 1600w, https://thecontext.au/content/images/2022/10/image-4.png 2153w" sizes="(min-width: 720px) 720px"><figcaption>Click to zoom: "At the heart of the debate over whether China can find a new growth model is a question over the limits of creativity, dynamism and innovation under authoritarian systems." <a href="https://www.ft.com/content/92cbe94d-05a0-4ece-bca9-68cb82244b17">Source</a>.</figcaption></figure><hr><h2 id="4%E2%80%94remote-work-and-housing-demand">4—Remote work and housing demand</h2><p>House prices have risen across the developed world. In the US the average house price jumped "more than 40 percent from February 2020 to June 2022". That led some to issue warnings about another housing bubble:</p><blockquote>"At first glance, the pandemic housing price surge may seem reminiscent of the 2000s bubble. But this time really is different, in a couple of ways. <br><br>What happened from 2000 to 2006 looked, even at the time, like pure speculative fever rather than a response to a real surge in housing demand. How could you tell? By the fact that the surge in home prices wasn’t matched by a surge in rents:</blockquote><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://thecontext.au/content/images/2022/10/us-house-prices-cpi-oct-22.png" class="kg-image" alt="Chart showing the last US housing bubble and rents." loading="lazy" width="800" height="450" srcset="https://thecontext.au/content/images/size/w600/2022/10/us-house-prices-cpi-oct-22.png 600w, https://thecontext.au/content/images/2022/10/us-house-prices-cpi-oct-22.png 800w" sizes="(min-width: 720px) 720px"><figcaption>"The last bubble didn’t touch rents". <a href="https://www.nytimes.com/2022/09/30/opinion/remote-work-housing-prices-covid.html">Source</a>.</figcaption></figure><blockquote>This time, however, rents have soared along with home prices."</blockquote><p>That's from Paul Krugman writing in the NYT, who points out that unlike during the 2000-06 bubble where price rises were mostly concentrated in the NIMBY (hard to build) cities, this time "prices have soared everywhere".</p><p>But why? Krugman continues:</p><blockquote>"The most likely explanation is that this time there was, indeed, a big rise in the underlying demand for housing, not just speculation, and that this rise took place too fast for housing construction to keep up, even in places where building isn’t overly restricted. (Supply-chain problems for construction materials didn’t help, either.) <br><br>So what happened? Like many people, I’ve speculated that the pandemic-induced rise in remote work led to a demand for more space at home. New research from economists at the San Francisco Fed supports this view. They found that remote work expanded most in locations where it was already relatively common and that home prices rose the most in these locations. (“Migration controls” refers to the Fed’s attempt to measure this relationship with and without the separate, though not unrelated, movement of workers from place to place.)"</blockquote><p>You can read Krugman's full post <a href="https://www.nytimes.com/2022/09/30/opinion/remote-work-housing-prices-covid.html">here</a> (~4 minute read), which concludes that the pandemic probably "brought forward changes that were going to happen eventually".</p><p>The good news is that some of today's inflation may simply reflect "a one-time shift in people's housing preferences", while the bad news is that "America's housing affordability crisis has gotten even worse", especially in places such as California and New York where "NIMBYism... will do even more damage in the remote-work era".</p><hr><h2 id="5%E2%80%94further-reading">5—Further reading...</h2><p>⛈️ "Sydney <a href="https://www.theguardian.com/australia-news/2022/oct/05/sydneys-wettest-year-expected-as-inland-nsw-central-qld-and-parts-of-victoria-brace-for-flooding">is on track</a> to set a new record for its wettest ever year, with more than two months still to go, as the city braces for another 100mm of rain over the next few days."</p><p>🌲 "Chief executive officers <a href="https://www.bloomberg.com/news/articles/2022-10-04/executives-are-backing-away-from-esg-as-recession-risks-mount">are putting</a> a number of ESG [environmental, social, and corporate governance] goals on hold as they try to prepare their businesses for the fallout from a possible recession, according to a study conducted by KPMG."</p><p>🔓 US President Joe Biden <a href="https://www.cnbc.com/2022/10/06/biden-to-pardon-all-prior-federal-offenses-of-simple-marijuana-possession-.html">pardoned all</a> federal offenders convicted of "simple marijuana possession", and "instructed Secretary of Health and Human Services Xavier Becerra and Attorney General Merrick Garland to begin reviewing how marijuana is classified under federal drug laws".</p><p>🙊 The UN human rights council <a href="https://nationalpost.com/news/u-n-body-in-rare-move-rejects-debate-on-chinas-treatment-of-uyghur-muslims">rejected</a> a debate on the alleged human rights abuses in China's Xinjiang region. 19 countries voted against the move following comments from Chinese officials that it would establish a "dangerous shortcut" for examining other countries' human rights records.</p>
+</div>
+<div class="gh-canvas">
+<footer class="single-footer">
+<div class="single-footer-left">
+<div class="navigation navigation-previous">
+<a class="navigation-link" href="/a-crisis-foretold/" aria-label="Previous post">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon navigation-icon">
+<path d="M26.667 14.667v2.667h-16L18 24.667l-1.893 1.893L5.547 16l10.56-10.56L18 7.333l-7.333 7.333h16z"></path>
+</svg> </a>
+</div>
+</div>
+<div class="single-footer-middle">
+</div>
+<div class="single-footer-right">
+<div class="navigation navigation-next">
+<a class="navigation-link" href="/how-zoning-broke-cities/" aria-label="Next post">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon navigation-icon">
+<path d="M5.333 14.667v2.667h16L14 24.667l1.893 1.893L26.453 16 15.893 5.44 14 7.333l7.333 7.333h-16z"></path>
+</svg> </a>
+</div>
+</div>
+</footer>
+</div>
+</article>
+<section class="related-wrapper gh-canvas">
+<h3 class="related-title">You might also like...</h3>
+<div class="related-feed">
+<article class="feed public post">
+<div class="feed-calendar">
+<div class="feed-calendar-month">
+03
+</div>
+<div class="feed-calendar-day">
+Feb
+</div>
+</div>
+<h2 class="feed-title">False narratives</h2>
+<div class="feed-right">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon icon-star">
+<path d="M6 8v-2c0-3.313 2.687-6 6-6 3.312 0 6 2.687 6 6v2h-2v-2c0-2.206-1.795-4-4-4s-4 1.794-4 4v2h-2zm-3 2v14h18v-14h-18z" /></path>
+</svg> <div class="feed-length">
+6 min read
+</div>
+</div>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon feed-icon">
+<path d="M11.453 22.107L17.56 16l-6.107-6.12L13.333 8l8 8-8 8-1.88-1.893z"></path>
+</svg>
+<a class="u-permalink" href="/false-narratives/" aria-label="False narratives"></a>
+</article> <article class="feed public post">
+<div class="feed-calendar">
+<div class="feed-calendar-month">
+01
+</div>
+<div class="feed-calendar-day">
+Feb
+</div>
+</div>
+<h2 class="feed-title">Immaculate disinflation</h2>
+<div class="feed-right">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon icon-star">
+<path d="M6 8v-2c0-3.313 2.687-6 6-6 3.312 0 6 2.687 6 6v2h-2v-2c0-2.206-1.795-4-4-4s-4 1.794-4 4v2h-2zm-3 2v14h18v-14h-18z" /></path>
+</svg> <div class="feed-length">
+4 min read
+</div>
+</div>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon feed-icon">
+<path d="M11.453 22.107L17.56 16l-6.107-6.12L13.333 8l8 8-8 8-1.88-1.893z"></path>
+</svg>
+<a class="u-permalink" href="/immaculate-disinflation/" aria-label="Immaculate disinflation"></a>
+</article> <article class="feed public post">
+<div class="feed-calendar">
+<div class="feed-calendar-month">
+30
+</div>
+<div class="feed-calendar-day">
+Jan
+</div>
+</div>
+<h2 class="feed-title">Covid and obesity</h2>
+<div class="feed-right">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon icon-star">
+<path d="M6 8v-2c0-3.313 2.687-6 6-6 3.312 0 6 2.687 6 6v2h-2v-2c0-2.206-1.795-4-4-4s-4 1.794-4 4v2h-2zm-3 2v14h18v-14h-18z" /></path>
+</svg> <div class="feed-length">
+5 min read
+</div>
+</div>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon feed-icon">
+<path d="M11.453 22.107L17.56 16l-6.107-6.12L13.333 8l8 8-8 8-1.88-1.893z"></path>
+</svg>
+<a class="u-permalink" href="/covid-and-obesity/" aria-label="Covid and obesity"></a>
+</article> <article class="feed public post">
+<div class="feed-calendar">
+<div class="feed-calendar-month">
+27
+</div>
+<div class="feed-calendar-day">
+Jan
+</div>
+</div>
+<h2 class="feed-title">The Boomer ascendancy</h2>
+<div class="feed-right">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon icon-star">
+<path d="M6 8v-2c0-3.313 2.687-6 6-6 3.312 0 6 2.687 6 6v2h-2v-2c0-2.206-1.795-4-4-4s-4 1.794-4 4v2h-2zm-3 2v14h18v-14h-18z" /></path>
+</svg> <div class="feed-length">
+4 min read
+</div>
+</div>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon feed-icon">
+<path d="M11.453 22.107L17.56 16l-6.107-6.12L13.333 8l8 8-8 8-1.88-1.893z"></path>
+</svg>
+<a class="u-permalink" href="/the-boomer-ascendancy/" aria-label="The Boomer ascendancy"></a>
+</article> <article class="feed public post">
+<div class="feed-calendar">
+<div class="feed-calendar-month">
+25
+</div>
+<div class="feed-calendar-day">
+Jan
+</div>
+</div>
+<h2 class="feed-title">Why not the coin?</h2>
+<div class="feed-right">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon icon-star">
+<path d="M6 8v-2c0-3.313 2.687-6 6-6 3.312 0 6 2.687 6 6v2h-2v-2c0-2.206-1.795-4-4-4s-4 1.794-4 4v2h-2zm-3 2v14h18v-14h-18z" /></path>
+</svg> <div class="feed-length">
+5 min read
+</div>
+</div>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon feed-icon">
+<path d="M11.453 22.107L17.56 16l-6.107-6.12L13.333 8l8 8-8 8-1.88-1.893z"></path>
+</svg>
+<a class="u-permalink" href="/why-not-the-coin/" aria-label="Why not the coin?"></a>
+</article> </div>
+</section>
+</main>
+</div>
+<footer class="gh-foot gh-outer">
+<div class="gh-foot-inner gh-inner">
+<div class="gh-copyright">
+The Context © 2023
+</div>
+<nav class="gh-foot-menu">
+<ul class="nav">
+<li class="nav-sign-up"><a href="#/portal/">Sign up</a></li>
+<li class="nav-privacy"><a href="https://thecontext.au/privacy/">Privacy</a></li>
+<li class="nav-terms"><a href="https://thecontext.au/terms/">Terms</a></li>
+<li class="nav-contact"><a href="https://thecontext.au/contact/">Contact</a></li>
+</ul>
+</nav>
+<div class="gh-powered-by">
+<a href="https://ghost.org/" target="_blank" rel="noopener">Powered by Ghost</a>
+</div>
+</div>
+</footer>
+</div>
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="pswp__bg"></div>
+<div class="pswp__scroll-wrap">
+<div class="pswp__container">
+<div class="pswp__item"></div>
+<div class="pswp__item"></div>
+<div class="pswp__item"></div>
+</div>
+<div class="pswp__ui pswp__ui--hidden">
+<div class="pswp__top-bar">
+<div class="pswp__counter"></div>
+<button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+<button class="pswp__button pswp__button--share" title="Share"></button>
+<button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+<button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+<div class="pswp__preloader">
+<div class="pswp__preloader__icn">
+<div class="pswp__preloader__cut">
+<div class="pswp__preloader__donut"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+<div class="pswp__share-tooltip"></div>
+</div>
+<button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)"></button>
+<button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)"></button>
+<div class="pswp__caption">
+<div class="pswp__caption__center"></div>
+</div>
+</div>
+</div>
+</div>
+<script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous">
+</script>
+<script src='/assets/built/main.min.js?v=b776f2a215'></script>
+</body>
+</html>

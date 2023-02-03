@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html class="theme-light" lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Making Twitter better</title>
+<link rel="stylesheet" href="/assets/built/screen.css?v=b776f2a215">
+<meta name="description" content="Can Musk save Twitter; governments messing with supply and demand; will the Rhino horn become extinct; and complacency is dangerous." />
+<link rel="icon" href="https://thecontext.au/content/images/size/w256h256/2022/06/less-noise-square.png" type="image/png" />
+<link rel="canonical" href="https://thecontext.au/making-twitter-better/" />
+<meta name="referrer" content="no-referrer-when-downgrade" />
+<meta property="og:site_name" content="The Context" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Making Twitter better" />
+<meta property="og:description" content="Can Musk save Twitter; governments messing with supply and demand; will the Rhino horn become extinct; and complacency is dangerous." />
+<meta property="og:url" content="https://thecontext.au/making-twitter-better/" />
+<meta property="og:image" content="https://thecontext.au/content/images/2022/11/musk-twitter-cartoon.jpg" />
+<meta property="article:published_time" content="2022-11-03T22:30:20.000Z" />
+<meta property="article:modified_time" content="2022-11-03T22:30:20.000Z" />
+<meta property="article:tag" content="Newsletter" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Making Twitter better" />
+<meta name="twitter:description" content="Can Musk save Twitter; governments messing with supply and demand; will the Rhino horn become extinct; and complacency is dangerous." />
+<meta name="twitter:url" content="https://thecontext.au/making-twitter-better/" />
+<meta name="twitter:image" content="https://thecontext.au/content/images/2022/11/musk-twitter-cartoon.jpg" />
+<meta name="twitter:label1" content="Written by" />
+<meta name="twitter:data1" content="Justin Pyvis" />
+<meta name="twitter:label2" content="Filed under" />
+<meta name="twitter:data2" content="Newsletter" />
+<meta name="twitter:site" content="@TheContextAU" />
+<meta name="twitter:creator" content="@JustinPyvis" />
+<meta property="og:image:width" content="815" />
+<meta property="og:image:height" content="408" />
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "publisher": {
+        "@type": "Organization",
+        "name": "The Context",
+        "url": "https://thecontext.au/",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://thecontext.au/content/images/size/w256h256/2022/06/less-noise-square.png",
+            "width": 60,
+            "height": 60
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": "Justin Pyvis",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://thecontext.au/content/images/2022/12/575d216122e20ae511b7ebaad30346f424356f4155c2da4e30bb757e497d5a19.png",
+            "width": 100,
+            "height": 100
+        },
+        "url": "https://thecontext.au/author/justin/",
+        "sameAs": [
+            "https://thecontext.au",
+            "https://twitter.com/JustinPyvis"
+        ]
+    },
+    "headline": "Making Twitter better",
+    "url": "https://thecontext.au/making-twitter-better/",
+    "datePublished": "2022-11-03T22:30:20.000Z",
+    "dateModified": "2022-11-03T22:30:20.000Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://thecontext.au/content/images/2022/11/musk-twitter-cartoon.jpg",
+        "width": 815,
+        "height": 408
+    },
+    "keywords": "Newsletter",
+    "description": "Can Musk save Twitter; governments messing with supply and demand; will the Rhino horn become extinct; and complacency is dangerous.",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://thecontext.au/"
+    }
+}
+    </script>
+<meta name="generator" content="Ghost 5.33" />
+<link rel="alternate" type="application/rss+xml" title="The Context" href="https://thecontext.au/rss/" />
+<script defer src="https://cdn.jsdelivr.net/ghost/sodo-search@~1.1/umd/sodo-search.min.js" data-key="1b7c90b45ab20358e47646936f" data-styles="https://cdn.jsdelivr.net/ghost/sodo-search@~1.1/umd/main.css" data-sodo-search="https://thecontext.au/" crossorigin="anonymous"></script>
+<link href="https://thecontext.au/webmentions/receive/" rel="webmention" />
+<script defer src="/public/cards.min.js?v=b776f2a215"></script>
+<link rel="stylesheet" type="text/css" href="/public/cards.min.css?v=b776f2a215">
+<style>
+    .logo-text {
+    color: var(--primary-text-color);
+    font-size: 1.8rem;
+    font-weight: 800;
+}
+    blockquote:not([class]) {
+    margin: 2.8rem 0;
+    padding: 0 3rem;
+    border-left: 5px solid var(--brand-color);
+    color: var(--primary-text-color);
+    font-size: 1.9rem;
+    font-style: italic;
+    line-height: 1.5;
+    font-weight: 500;
+    letter-spacing: -0.03rem;
+    background-color: var(--white-color);
+}
+	.gh-content>blockquote+*,.gh-content>hr+*{
+    margin-top:0.5rem
+    }
+</style><style>:root {--ghost-accent-color: #487f7e;}</style>
+</head>
+<body class='post-template tag-newsletter is-head-middle-logo'>
+<div class="site">
+<header id="gh-head" class="gh-head gh-outer">
+<div class="gh-head-inner gh-inner">
+<div class="gh-head-brand">
+<div class="gh-head-brand-wrapper">
+<a class="gh-head-logo" href="https://thecontext.au">
+The Context
+</a>
+</div>
+<button class="gh-search gh-icon-btn" data-ghost-search><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" width="20" height="20"><path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg></button>
+<button class="gh-burger"></button>
+</div>
+<nav class="gh-head-menu">
+<ul class="nav">
+<li class="nav-home"><a href="https://thecontext.au/">Home</a></li>
+<li class="nav-about"><a href="https://thecontext.au/about/">About</a></li>
+</ul>
+</nav>
+<div class="gh-head-actions">
+<button class="gh-search gh-icon-btn" data-ghost-search><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" width="20" height="20"><path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg></button>
+</div>
+</div>
+</header>
+<div class="site-content">
+<main class="site-main">
+<article class="single post tag-newsletter">
+<header class="single-header gh-canvas">
+<div class="single-meta">
+<span class="single-meta-item single-meta-date">
+<time datetime="2022-11-04">
+04 Nov
+</time>
+</span>
+<span class="single-meta-item single-meta-length">
+6 min read
+</span>
+<span class="single-meta-item single-meta-tag">
+<a class="post-tag post-tag-newsletter" href="/tag/newsletter/">
+Newsletter
+</a>
+</span>
+</div>
+<h1 class="single-title">Making Twitter better</h1>
+<div class="single-excerpt">
+Can Musk save Twitter; governments messing with supply and demand; will the Rhino horn become extinct; and complacency is dangerous.
+</div>
+<figure class="single-media kg-width-wide">
+<div class="u-placeholder horizontal">
+<img class="u-object-fit" srcset="/content/images/size/w400/2022/11/musk-twitter-cartoon.jpg 400w,
+/content/images/size/w750/2022/11/musk-twitter-cartoon.jpg 750w,
+/content/images/size/w960/2022/11/musk-twitter-cartoon.jpg 960w,
+/content/images/size/w1140/2022/11/musk-twitter-cartoon.jpg 1140w" sizes="(min-width: 1200px) 920px, 92vw" src="/content/images/size/w960/2022/11/musk-twitter-cartoon.jpg" alt="Making Twitter better">
+</div>
+<figcaption><a href="https://twitter.com/BJennings90/status/1586053114167455744">Source</a></figcaption>
+</figure>
+</header>
+<div class="single-content gh-content gh-canvas">
+<h2 id="1%E2%80%94making-twitter-better">1—Making Twitter better</h2><p>Elon Musk now owns Twitter and has wasted no time shaking up the embattled social network, sacking the entire leadership team and <a href="https://twitter.com/elonmusk/status/1587499283573530625">charging</a> $8/month for blue 'verified' checkmarks ("adjusted by country proportionate to purchasing power parity"). Musk reportedly plans to follow that up by <a href="https://www.axios.com/2022/11/03/musk-twitter-layoffs-remote-back-to-office">laying off</a> a third or more of its staff, as soon as today.</p><p>But can Musk save Twitter? Describing himself as "left-of-centre" – which is from where most of the Musk/Twitter angst has stemmed – Matthew Yglesias thinks Musk can, but only if he manages to improve the actual product:</p><blockquote>"If you think of Twitter as a problem, then Musk almost certainly can't solve the problem. But if you think of Twitter as a product with tremendous value but also a lot of functional limitations, then Musk plausibly can make iterative improvements to the product. <br><br>If Twitter gets better, more people will use it. And if more people use it, the value of the network increases. And at that point, Twitter becomes an online services company with a proper flywheel of product improvements driving user growth, which drives network effects, which drives revenue, which drives product improvements. <br>...<br>Twitter is, despite its aggravations, a source of great delight for me. I interact with a wide range of people, have made a lot of virtual friends, and benefit from the wisdom of not only academic specialists and beat reporters, but also obsessive hobbyists and practitioners in a range of fields. I would like the software tools that Twitter gives its users to be better so that more people can get more out of it and build the value of the community. And I think on some level this <em>really is</em> more of an engineering problem than a political problem. Dramatically reinvigorating a tech company as old as Twitter strikes me as somewhat unlikely. But there's a 30 to 40 percent chance that a new owner with a history of engineering success can pull it off."</blockquote><p>As for the layoffs, Twitter – and many other tech companies – are probably carrying a bit too much fat:</p><blockquote>"I'm not exactly sure why this happened, but roughly a year ago there was a substantial vibe shift in Silicon Valley which holds that most large technology companies are massively overstaffed. Multiple CEOs of privately held tech companies have voiced this critique of their larger peers to me. They've also criticized the venture capital community for encouraging excessively rapid headcount growth, but some influential VCs are now saying they agree with this. And there seems to be some competition to engage in the highest possible estimates of overstaffing. Marc Andreessen says the <em>good</em> big companies should lay off half their staff and the bad ones are worse. <br><br>Nat Friedman, the investor and former CEO of GitHub, says 'many tech companies are 2-10x overstaffed'."</blockquote><p>You can read Yglesias' full article <a href="https://www.slowboring.com/p/elon-musk-needs-to-make-twitter-better">here</a> (~10 minute read).</p><hr><h2 id="2%E2%80%94messing-with-supply-and-demand">2—Messing with supply and demand</h2><p>Energy prices are high and going higher, especially on Australia's eastern seaboard where there's no gas reservation policy. High energy prices come with vocal appeals for the government to do something about it. Unfortunately, too often that's the wrong thing:</p><blockquote>"Economists have long understood that markets, left to their own devices, don't always lead to an efficient allocation of resources. The presence of externalities (like pollution) that are not part of the price mechanism, asymmetric information among market participants, lack of competition, or 'missing markets' are all rationales for government intervention to improve efficiency. <br><br>But messing with supply and demand is emphatically not on that list. Price caps and floors, subsidies, quotas, and other measures that try and change the balance between supply and demand – absent one of the above rationales for intervention – almost always make matters worse. Sometimes dramatically or disastrously so."</blockquote><p>That's from UNSW professor Richard Holden, who asks "among a slew of unappealing options, what's the least bad?" </p><p>According to Holden, the best option would be to "drive a wedge between the domestic and world price is by creating a domestic-only market... by forcing producers to reserve a certain amount of gas to only be sold in Australia". </p><p>The best time to do this was "long ago", but only Western Australia actually implemented one. However, Holden believes that a domestic reservation policy could still be introduced nationwide provided consideration is given to the consequences:</p><blockquote>"Mandating domestic gas reservation immediately could force producers to abrogate long-term export contracts. That raises the ugly spectre of sovereign risk. But it could be established going forward as part of a deal with gas producers which unlocks further supply in places like the Bowen basin. This would have to involve multiple negotiations between federal ministers, and the states, particularly Queensland and NSW. Faced with a reasonable proposal like this, producers might be persuaded to also put voluntary downward pressure on current prices. Particularly if they reasonably believe that rejecting such a deal would lead to other onerous, and odorous, policies."</blockquote><p>You can read Holden's full article <a href="https://www.afr.com/politics/federal/there-is-a-way-to-get-lower-power-bills-drill-for-more-gas-20221030-p5bu4l">here</a> (~4 minute read), which cautions against implementing so-called 'super profits' or 'export' taxes, or price caps, all of which would likely come with much larger negative side-effects than a reservation policy.</p><hr><h2 id="3%E2%80%94will-the-rhino-horn-become-extinct">3—Will the Rhino horn become extinct?</h2><figure class="kg-card kg-image-card kg-card-hascaption"><a href="https://twitter.com/SteveStuWill/status/1587606675355160576"><img src="https://thecontext.au/content/images/2022/11/image.png" class="kg-image" alt loading="lazy" width="634" height="858" srcset="https://thecontext.au/content/images/size/w600/2022/11/image.png 600w, https://thecontext.au/content/images/2022/11/image.png 634w"></a><figcaption>Charles Darwin: "I think it inevitably follows, that as new species in the course of time are formed through natural selection, others will become rarer and rarer, and finally extinct."</figcaption></figure><hr><h2 id="4%E2%80%94complacency-is-dangerous">4—Complacency is dangerous</h2><p>It has been a warm start to winter in Europe and by paying 'over the odds', their respective governments have managed to fill their gas storage facilities. But according to modellers at Rystad Energy, "complacency is dangerous. Things could get very bad, very fast":</p><blockquote>"We have simulated three scenarios. Even the first, under which relations do not deteriorate, is far from pleasant.<br>...<br>For Europe this scenario triggers a crisis but not a catastrophe. Supply cuts mean that by the end of 2022 the continent will have missed out on 84bn cubic metres (bcm) of Russian gas, equivalent to 17% of its normal annual consumption. Higher lng imports have already plugged part of this hole, a smaller chunk is filled by greater piped flows from Azerbaijan and Norway, and another by painful but voluntary consumption cuts. Our simulation suggests that—even if the winter turns frigid, boosting demand by 25 bcm—Europe's storage will allow it to get through the summer of 2023, by which point lng imports may start to ramp up further.<br><br>Under this scenario, governments will not have to ration gas. Europe will, though, have to pay dearly for it.</blockquote><p>And that's the best-case scenario, which would still see many industrial businesses struggle to afford higher energy prices, all but guaranteeing a prolonged recession in countries such as Germany and Italy where a 1% drop in energy consumption reduces GDP by an estimated 0.5-1%.</p><p>As for the "extreme" scenario:</p><blockquote>"Europe faces an excruciating squeeze. It must fork out $250bn in 2023 and $200bn in 2024 merely to replace Russian barrels. Its annual import-gas bill nears $1trn, almost double its level in our base-case scenario, despite much lower incoming volumes. Making up for the lost gas proves impossible. Our simulation suggests that Europe’s storage, empty by November 2023, would remain bare for the whole of 2024. <br><br>European solidarity would almost certainly break down, worsening the continent’s misery. A recent simulation by Germany’s economic ministry assessed what would happen if, in February next year, power utilities in the country’s south were to receive 50% less gas than normal, many French nuclear reactors remained shut (as they have this year) and coal plants faltered. They concluded that the eu would have to distribute 91 hours of blackouts among its members. Germany, in panic mode, might decide to cut electricity exports to France, or stop gas flows to the Czech Republic and Slovakia. Britain, which has meagre storage facilities but big gas needs, would be vulnerable."</blockquote><p>You can read the full war game analysis in The Economist <a href="https://www.economist.com/finance-and-economics/2022/10/30/europes-energy-crisis-is-very-far-from-over">here</a> (~9 minute read), which warns that due to Europe's energy vulnerabilities, "Russia retains more options for escalation than the West".</p><hr><h2 id="5%E2%80%94further-reading">5—Further reading...</h2><p>🏢 Speculative: "[P]roductivity <a href="https://ktla.com/news/money-smart/people-return-to-offices-productivity-plunges/">plunged during</a> the first half of 2022, down by the sharpest rate since the 1940s... [perhaps because] businesses are once again requiring a physical presence in the office, some employees are consciously or subconsciously expressing their dissatisfaction by taking their foot off the gas pedal."</p><p>🌞 "Unilever... <a href="https://www.news.com.au/finance/work/at-work/global-company-unilever-launches-australian-fourday-work-week-trial/news-story/18a2c32ecd6ba7886e128d9d67959dad">recently completed</a> an 18-month trial of the four-day work week in its New Zealand operations. The trial, which concluded in June, saw a 34 per cent drop in absenteeism, a 33 per cent drop in stress and a 67 per cent drop in work-life conflict. According to Unilever, the trial, which saw all 80 staff retain full pay, delivered 100 per cent of its business targets with 80 per cent of the work time."</p><p>🍁 Canada's government "<a href="https://www.thestar.com/business/2022/11/01/cp-newsalert-feds-reveal-plan-to-welcome-500000-immigrants-per-year-by-2025.html">has unveiled plans</a> for a massive increase in the number of immigrants entering Canada, with a goal of seeing 500,000 people arrive each year by 2025 as it seeks to address a critical labour shortage across the country".</p><p>☢️ The EU <a href="https://www.euractiv.com/section/energy-environment/news/eu-may-block-polish-nuclear-investment-warns-opposition/">might block</a> Poland's plan to build several nuclear power plants because it "continues to choose foreign investors instead of the ones from the UE".</p><p>🔐 "China <a href="https://appleinsider.com/articles/22/11/02/china-imposes-new-week-long-lockdown-on-foxconn-over-covid-19">has ordered</a> a seven-day lockdown in Zhengzhou, home to a major Foxconn [iPhone] factory, after a COVID-19 outbreak swept through the industrial park."</p><p>🕵️‍♀️ Xi Jinping is also watching: TikTok "<a href="https://www.theguardian.com/technology/2022/nov/02/tiktok-tells-european-users-its-staff-in-china-get-access-to-their-data">is updating</a> its privacy policy to confirm that staff in countries, including China, are allowed to access user data to ensure their experience of the platform is 'consistent, enjoyable and safe'."</p>
+</div>
+<div class="gh-canvas">
+<footer class="single-footer">
+<div class="single-footer-left">
+<div class="navigation navigation-previous">
+<a class="navigation-link" href="/building-castles-in-the-sky/" aria-label="Previous post">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon navigation-icon">
+<path d="M26.667 14.667v2.667h-16L18 24.667l-1.893 1.893L5.547 16l10.56-10.56L18 7.333l-7.333 7.333h16z"></path>
+</svg> </a>
+</div>
+</div>
+<div class="single-footer-middle">
+</div>
+<div class="single-footer-right">
+<div class="navigation navigation-next">
+<a class="navigation-link" href="/beijings-greatest-test/" aria-label="Next post">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon navigation-icon">
+<path d="M5.333 14.667v2.667h16L14 24.667l1.893 1.893L26.453 16 15.893 5.44 14 7.333l7.333 7.333h-16z"></path>
+</svg> </a>
+</div>
+</div>
+</footer>
+</div>
+</article>
+<section class="related-wrapper gh-canvas">
+<h3 class="related-title">You might also like...</h3>
+<div class="related-feed">
+<article class="feed public post">
+<div class="feed-calendar">
+<div class="feed-calendar-month">
+03
+</div>
+<div class="feed-calendar-day">
+Feb
+</div>
+</div>
+<h2 class="feed-title">False narratives</h2>
+<div class="feed-right">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon icon-star">
+<path d="M6 8v-2c0-3.313 2.687-6 6-6 3.312 0 6 2.687 6 6v2h-2v-2c0-2.206-1.795-4-4-4s-4 1.794-4 4v2h-2zm-3 2v14h18v-14h-18z" /></path>
+</svg> <div class="feed-length">
+6 min read
+</div>
+</div>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon feed-icon">
+<path d="M11.453 22.107L17.56 16l-6.107-6.12L13.333 8l8 8-8 8-1.88-1.893z"></path>
+</svg>
+<a class="u-permalink" href="/false-narratives/" aria-label="False narratives"></a>
+</article> <article class="feed public post">
+<div class="feed-calendar">
+<div class="feed-calendar-month">
+01
+</div>
+<div class="feed-calendar-day">
+Feb
+</div>
+</div>
+<h2 class="feed-title">Immaculate disinflation</h2>
+<div class="feed-right">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon icon-star">
+<path d="M6 8v-2c0-3.313 2.687-6 6-6 3.312 0 6 2.687 6 6v2h-2v-2c0-2.206-1.795-4-4-4s-4 1.794-4 4v2h-2zm-3 2v14h18v-14h-18z" /></path>
+</svg> <div class="feed-length">
+4 min read
+</div>
+</div>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon feed-icon">
+<path d="M11.453 22.107L17.56 16l-6.107-6.12L13.333 8l8 8-8 8-1.88-1.893z"></path>
+</svg>
+<a class="u-permalink" href="/immaculate-disinflation/" aria-label="Immaculate disinflation"></a>
+</article> <article class="feed public post">
+<div class="feed-calendar">
+<div class="feed-calendar-month">
+30
+</div>
+<div class="feed-calendar-day">
+Jan
+</div>
+</div>
+<h2 class="feed-title">Covid and obesity</h2>
+<div class="feed-right">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon icon-star">
+<path d="M6 8v-2c0-3.313 2.687-6 6-6 3.312 0 6 2.687 6 6v2h-2v-2c0-2.206-1.795-4-4-4s-4 1.794-4 4v2h-2zm-3 2v14h18v-14h-18z" /></path>
+</svg> <div class="feed-length">
+5 min read
+</div>
+</div>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon feed-icon">
+<path d="M11.453 22.107L17.56 16l-6.107-6.12L13.333 8l8 8-8 8-1.88-1.893z"></path>
+</svg>
+<a class="u-permalink" href="/covid-and-obesity/" aria-label="Covid and obesity"></a>
+</article> <article class="feed public post">
+<div class="feed-calendar">
+<div class="feed-calendar-month">
+27
+</div>
+<div class="feed-calendar-day">
+Jan
+</div>
+</div>
+<h2 class="feed-title">The Boomer ascendancy</h2>
+<div class="feed-right">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon icon-star">
+<path d="M6 8v-2c0-3.313 2.687-6 6-6 3.312 0 6 2.687 6 6v2h-2v-2c0-2.206-1.795-4-4-4s-4 1.794-4 4v2h-2zm-3 2v14h18v-14h-18z" /></path>
+</svg> <div class="feed-length">
+4 min read
+</div>
+</div>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon feed-icon">
+<path d="M11.453 22.107L17.56 16l-6.107-6.12L13.333 8l8 8-8 8-1.88-1.893z"></path>
+</svg>
+<a class="u-permalink" href="/the-boomer-ascendancy/" aria-label="The Boomer ascendancy"></a>
+</article> <article class="feed public post">
+<div class="feed-calendar">
+<div class="feed-calendar-month">
+25
+</div>
+<div class="feed-calendar-day">
+Jan
+</div>
+</div>
+<h2 class="feed-title">Why not the coin?</h2>
+<div class="feed-right">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon icon-star">
+<path d="M6 8v-2c0-3.313 2.687-6 6-6 3.312 0 6 2.687 6 6v2h-2v-2c0-2.206-1.795-4-4-4s-4 1.794-4 4v2h-2zm-3 2v14h18v-14h-18z" /></path>
+</svg> <div class="feed-length">
+5 min read
+</div>
+</div>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon feed-icon">
+<path d="M11.453 22.107L17.56 16l-6.107-6.12L13.333 8l8 8-8 8-1.88-1.893z"></path>
+</svg>
+<a class="u-permalink" href="/why-not-the-coin/" aria-label="Why not the coin?"></a>
+</article> </div>
+</section>
+</main>
+</div>
+<footer class="gh-foot gh-outer">
+<div class="gh-foot-inner gh-inner">
+<div class="gh-copyright">
+The Context © 2023
+</div>
+<nav class="gh-foot-menu">
+<ul class="nav">
+<li class="nav-sign-up"><a href="#/portal/">Sign up</a></li>
+<li class="nav-privacy"><a href="https://thecontext.au/privacy/">Privacy</a></li>
+<li class="nav-terms"><a href="https://thecontext.au/terms/">Terms</a></li>
+<li class="nav-contact"><a href="https://thecontext.au/contact/">Contact</a></li>
+</ul>
+</nav>
+<div class="gh-powered-by">
+<a href="https://ghost.org/" target="_blank" rel="noopener">Powered by Ghost</a>
+</div>
+</div>
+</footer>
+</div>
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="pswp__bg"></div>
+<div class="pswp__scroll-wrap">
+<div class="pswp__container">
+<div class="pswp__item"></div>
+<div class="pswp__item"></div>
+<div class="pswp__item"></div>
+</div>
+<div class="pswp__ui pswp__ui--hidden">
+<div class="pswp__top-bar">
+<div class="pswp__counter"></div>
+<button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+<button class="pswp__button pswp__button--share" title="Share"></button>
+<button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+<button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+<div class="pswp__preloader">
+<div class="pswp__preloader__icn">
+ <div class="pswp__preloader__cut">
+<div class="pswp__preloader__donut"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+<div class="pswp__share-tooltip"></div>
+</div>
+<button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)"></button>
+<button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)"></button>
+<div class="pswp__caption">
+<div class="pswp__caption__center"></div>
+</div>
+</div>
+</div>
+</div>
+<script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous">
+</script>
+<script src='/assets/built/main.min.js?v=b776f2a215'></script>
+</body>
+</html>

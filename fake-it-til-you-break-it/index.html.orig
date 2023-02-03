@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html class="theme-light" lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Fake it &#x27;til you break it</title>
+<link rel="stylesheet" href="/assets/built/screen.css?v=b776f2a215">
+<meta name="description" content="The FTX/Bankman-Fried rise and fall has a lot in common with Elizabeth Holmes and Theranos; central banking is a nice job if you can get it; the FTX warning signs; and Africa&#x27;s Megalopolis." />
+<link rel="icon" href="https://thecontext.au/content/images/size/w256h256/2022/06/less-noise-square.png" type="image/png" />
+<link rel="canonical" href="https://thecontext.au/fake-it-til-you-break-it/" />
+<meta name="referrer" content="no-referrer-when-downgrade" />
+<meta property="og:site_name" content="The Context" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Fake it &#x27;til you break it" />
+<meta property="og:description" content="The FTX/Bankman-Fried rise and fall has a lot in common with Elizabeth Holmes and Theranos; central banking is a nice job if you can get it; the FTX warning signs; and Africa&#x27;s Megalopolis." />
+<meta property="og:url" content="https://thecontext.au/fake-it-til-you-break-it/" />
+<meta property="og:image" content="https://thecontext.au/content/images/2022/11/holmes-fried-nov-22.png" />
+<meta property="article:published_time" content="2022-11-22T22:30:18.000Z" />
+<meta property="article:modified_time" content="2022-11-22T22:30:18.000Z" />
+<meta property="article:tag" content="Newsletter" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Fake it &#x27;til you break it" />
+<meta name="twitter:description" content="The FTX/Bankman-Fried rise and fall has a lot in common with Elizabeth Holmes and Theranos; central banking is a nice job if you can get it; the FTX warning signs; and Africa&#x27;s Megalopolis." />
+<meta name="twitter:url" content="https://thecontext.au/fake-it-til-you-break-it/" />
+<meta name="twitter:image" content="https://thecontext.au/content/images/2022/11/holmes-fried-nov-22.png" />
+<meta name="twitter:label1" content="Written by" />
+<meta name="twitter:data1" content="Justin Pyvis" />
+<meta name="twitter:label2" content="Filed under" />
+<meta name="twitter:data2" content="Newsletter" />
+<meta name="twitter:site" content="@TheContextAU" />
+<meta name="twitter:creator" content="@JustinPyvis" />
+<meta property="og:image:width" content="1280" />
+<meta property="og:image:height" content="720" />
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "publisher": {
+        "@type": "Organization",
+        "name": "The Context",
+        "url": "https://thecontext.au/",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://thecontext.au/content/images/size/w256h256/2022/06/less-noise-square.png",
+            "width": 60,
+            "height": 60
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": "Justin Pyvis",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://thecontext.au/content/images/2022/12/575d216122e20ae511b7ebaad30346f424356f4155c2da4e30bb757e497d5a19.png",
+            "width": 100,
+            "height": 100
+        },
+        "url": "https://thecontext.au/author/justin/",
+        "sameAs": [
+            "https://thecontext.au",
+            "https://twitter.com/JustinPyvis"
+        ]
+    },
+    "headline": "Fake it &#x27;til you break it",
+    "url": "https://thecontext.au/fake-it-til-you-break-it/",
+    "datePublished": "2022-11-22T22:30:18.000Z",
+    "dateModified": "2022-11-22T22:30:18.000Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://thecontext.au/content/images/2022/11/holmes-fried-nov-22.png",
+        "width": 1280,
+        "height": 720
+    },
+    "keywords": "Newsletter",
+    "description": "The FTX/Bankman-Fried rise and fall has a lot in common with Elizabeth Holmes and Theranos; central banking is a nice job if you can get it; the FTX warning signs; and Africa&#x27;s Megalopolis.",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://thecontext.au/"
+    }
+}
+    </script>
+<meta name="generator" content="Ghost 5.33" />
+<link rel="alternate" type="application/rss+xml" title="The Context" href="https://thecontext.au/rss/" />
+<script defer src="https://cdn.jsdelivr.net/ghost/sodo-search@~1.1/umd/sodo-search.min.js" data-key="1b7c90b45ab20358e47646936f" data-styles="https://cdn.jsdelivr.net/ghost/sodo-search@~1.1/umd/main.css" data-sodo-search="https://thecontext.au/" crossorigin="anonymous"></script>
+<link href="https://thecontext.au/webmentions/receive/" rel="webmention" />
+<script defer src="/public/cards.min.js?v=b776f2a215"></script>
+<link rel="stylesheet" type="text/css" href="/public/cards.min.css?v=b776f2a215">
+<style>
+    .logo-text {
+    color: var(--primary-text-color);
+    font-size: 1.8rem;
+    font-weight: 800;
+}
+    blockquote:not([class]) {
+    margin: 2.8rem 0;
+    padding: 0 3rem;
+    border-left: 5px solid var(--brand-color);
+    color: var(--primary-text-color);
+    font-size: 1.9rem;
+    font-style: italic;
+    line-height: 1.5;
+    font-weight: 500;
+    letter-spacing: -0.03rem;
+    background-color: var(--white-color);
+}
+	.gh-content>blockquote+*,.gh-content>hr+*{
+    margin-top:0.5rem
+    }
+</style><style>:root {--ghost-accent-color: #487f7e;}</style>
+</head>
+<body class='post-template tag-newsletter is-head-middle-logo'>
+<div class="site">
+<header id="gh-head" class="gh-head gh-outer">
+<div class="gh-head-inner gh-inner">
+<div class="gh-head-brand">
+<div class="gh-head-brand-wrapper">
+<a class="gh-head-logo" href="https://thecontext.au">
+The Context
+</a>
+</div>
+<button class="gh-search gh-icon-btn" data-ghost-search><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" width="20" height="20"><path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg></button>
+<button class="gh-burger"></button>
+</div>
+<nav class="gh-head-menu">
+<ul class="nav">
+<li class="nav-home"><a href="https://thecontext.au/">Home</a></li>
+<li class="nav-about"><a href="https://thecontext.au/about/">About</a></li>
+</ul>
+</nav>
+<div class="gh-head-actions">
+<button class="gh-search gh-icon-btn" data-ghost-search><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" width="20" height="20"><path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg></button>
+</div>
+</div>
+</header>
+<div class="site-content">
+<main class="site-main">
+<article class="single post tag-newsletter">
+<header class="single-header gh-canvas">
+<div class="single-meta">
+<span class="single-meta-item single-meta-date">
+<time datetime="2022-11-23">
+23 Nov
+</time>
+</span>
+<span class="single-meta-item single-meta-length">
+5 min read
+</span>
+<span class="single-meta-item single-meta-tag">
+<a class="post-tag post-tag-newsletter" href="/tag/newsletter/">
+Newsletter
+</a>
+</span>
+</div>
+<h1 class="single-title">Fake it &#x27;til you break it</h1>
+<div class="single-excerpt">
+The FTX/Bankman-Fried rise and fall has a lot in common with Elizabeth Holmes and Theranos; central banking is a nice job if you can get it; the FTX warning signs; and Africa&#x27;s Megalopolis.
+</div>
+<figure class="single-media kg-width-wide">
+<div class="u-placeholder horizontal">
+<img class="u-object-fit" srcset="/content/images/size/w400/2022/11/holmes-fried-nov-22.png 400w,
+/content/images/size/w750/2022/11/holmes-fried-nov-22.png 750w,
+/content/images/size/w960/2022/11/holmes-fried-nov-22.png 960w,
+/content/images/size/w1140/2022/11/holmes-fried-nov-22.png 1140w" sizes="(min-width: 1200px) 920px, 92vw" src="/content/images/size/w960/2022/11/holmes-fried-nov-22.png" alt="Fake it &#x27;til you break it">
+</div>
+<figcaption>Bankman-Fried was not the first charismatic, well connected young entrepreneur to fool "a wide swathe of elite America". <a href="https://www.timesnownews.com/business-economy/companies/theranos-fraud-ftx-collapse-it-minister-rajeev-chandrasekhars-reminder-for-all-article-95617134">Source</a>.</figcaption>
+</figure>
+</header>
+<div class="single-content gh-content gh-canvas">
+<h2 id="1%E2%80%94fake-it-til-you-break-it">1—Fake it 'til you break it</h2><p>Elizabeth Holmes, the founder of one-time Silicon Valley sweetheart Theranos, was sentenced to over 11 years in prison last week for duping investors. According to Wessie du Toit, while the Sam Bankman-Fried story is only just beginning, it has many similarities:</p><blockquote>"Bankman-Fried rose through the crypto world on a wave of high-minded talk and personal charm. He offered financial brilliance along with the image of a scruffy outsider, appearing on stage with Bill Clinton and Tony Blair in a t-shirt and shorts, playing video games during business calls and bragging about sleeping on a beanbag next to his desk. Closely associated with the Effective Altruism movement — a school of ethics that seeks the most rational ways of maximising human wellbeing — Bankman-Fried claimed he was getting stinking rich so he could give it away. He cemented his public profile by cooperating with lawmakers in Washington over crypto regulation, whilst sponsoring various sports teams and donating to the Democratic party. Naturally he also made time to hobnob with celebrities like the supermodel Gisele Bundchen, appointed to lead FTX's environmental and social initiatives. <br>...<br>Bankman-Fried's rise and fall shows a more than passing resemblance to the case of Holmes and Theranos. She too cultivated a disruptive image, a Stanford drop-out turned founder at the age of nineteen, wearing black turtlenecks in a weird homage to Steve Jobs. Her promise of a revolutionary blood-testing technology, bypassing scary needles and replacing doctors' appointments with a trip to Walmart, won her more illustrious supporters than it's possible to enumerate. They included Barack Obama, Hillary Clinton, Henry Kissinger, Bill Gates, Rupert Murdoch and Betsy DeVos. As revealed by John Carreyou in his 2015 <em>Wall Street Journal </em>exposé, and by a succession of witnesses at Holmes' trial, she lied about the capabilities of her so-called Edison machine, keeping her supposedly ground-breaking tech cloaked in secrecy to hide its failures.</blockquote><p>Do read du Toit's full article <a href="https://thecritic.co.uk/fake-it-til-you-break-it/">here</a> (~5 minute read), in which he warns that "the danger posed by such figures is not so much that they are 'disruptive', but that they awaken a deeply conformist desire to worship the glamorous heralds of progress".</p><hr><h2 id="2%E2%80%94a-nice-job-if-you-can-get-it">2—A nice job if you can get it</h2><p>The Reserve Bank of New Zealand (RBNZ) raised its cash rate by a whopping 75 basis points this morning. Its board will now go on vacation for a full 13 weeks, despite inflation running at 7.2% annually:</p><blockquote>"This strange schedule has been in place for quite a few years now, having been adopted at a time when the OCR [overnight cash rate] wasn't being moved much at all (and when the Bank was raising the OCR, it often proved to have been a mistake). But having been in place for a while does not make it any more defensible or sensible. In fact, last year's three month summer break almost certainly was one factor in how slow the MPC was to get on with raising the OCR once they’d finally made a start. On no reading of the data (contemporary data that is) did it make sense for us to have ended 2021 with the OCR still lower, in nominal terms, than it had been just prior to Covid. And having experienced the issue last summer (when perhaps it caught them by surprise) there was no excuse for not resetting the schedule for this summer."</blockquote><p>That's from Michael Reddell, a 25+ year veteran of the RBNZ. You can read Reddell's full essay <a href="https://croakingcassandra.com/2022/11/21/long-summer-holidays-for-the-mpc/">here</a> (~4 minute read), in which he argues that such a long vacation "really isn't good enough, especially at a time when there is so much (perhaps inevitable) uncertainty about the inflation situation and outlook".</p><hr><h2 id="3%E2%80%94where-were-the-warning-signs">3—Where were the warning signs?</h2><figure class="kg-card kg-image-card"><a href="https://twitter.com/anammostarac/status/1592346187553968129"><img src="https://thecontext.au/content/images/2022/11/image-8.png" class="kg-image" alt loading="lazy" width="637" height="578" srcset="https://thecontext.au/content/images/size/w600/2022/11/image-8.png 600w, https://thecontext.au/content/images/2022/11/image-8.png 637w"></a></figure><hr><h2 id="4%E2%80%94africas-megalopolis">4—Africa's Megalopolis</h2><figure class="kg-card kg-image-card"><img src="https://thecontext.au/content/images/2022/11/image-9.png" class="kg-image" alt loading="lazy" width="631" height="399" srcset="https://thecontext.au/content/images/size/w600/2022/11/image-9.png 600w, https://thecontext.au/content/images/2022/11/image-9.png 631w"></figure><p>Everyone knows about the rise of China and India, but Africa – which is projected to contain 40% of the world's population by the middle of the century – and west Africa in particular, are set to become increasingly relevant:</p><blockquote>"There is one place above all that should be seen as the centre of this urban transformation. It is a stretch of coastal west Africa that begins in the west with Abidjan, the economic capital of Ivory Coast, and extends 600 miles east – passing through the countries of Ghana, Togo and Benin – before finally arriving at Lagos. Recently, this has come to be seen by many experts as the world's most rapidly urbanising region, a 'megalopolis' in the making – that is, a large and densely clustered group of metropolitan centres. When its population surpassed 10 million people in the 1950s, the New York metropolitan area became the anchor of one of the first urban zones to be described this way – a region of almost continuous dense habitation that stretches 400 miles from Washington DC to Boston. Other regions, such as Japan's Tokyo-Osaka corridor, soon gained the same distinction, and were later joined by other gigantic clusters in India, China and Europe. <br><br>But the Abidjan-Lagos stretch now stands to become the granddaddy of them all. In just over a decade from now, its major cities will contain 40 million people. Abidjan, with 8.3 million people, will be almost as large as New York City is today. The story of the region's small cities is equally dramatic. They are either becoming major urban centres in their own right, or – as with places like Oyo in Nigeria, Takoradi in Ghana, and Bingerville in Ivory Coast – they are gradually being absorbed by bigger cities. Meanwhile, newborn cities are popping into existence in settings that were all but barren a generation ago. When one includes these sorts of places, the projected population for this coastal zone will reach 51 million people by 2035, roughly as many people as the north-eastern corridor of the US counted when it first came to be considered a megalopolis."</blockquote><p>You can learn more about Africa's Megalopolis from Howard French <a href="https://www.theguardian.com/world/2022/oct/27/megalopolis-how-coastal-west-africa-will-shape-the-coming-century">here</a> (~18 minute read), including how unlike New York, "this part of west Africa will keep growing... [becoming] the largest zone of continuous, dense habitation on earth, with something in the order of half a billion people".</p><hr><h2 id="5%E2%80%94further-reading">5—Further reading...</h2><p>👩‍💻 "Twitter 2.0 — an Elon company" <a href="https://www.theverge.com/2022/11/21/23472025/elon-musk-twitter-hiring-again-ending-layoffs">is hiring</a> "people who are great at writing software", just a week after sacking two-thirds of its staff.</p><p>🏭 Chinese manufacturer's <a href="https://www.reuters.com/world/china/younger-chinese-are-spurning-factory-jobs-that-power-economy-2022-11-21/">can't find</a> young people to replace aging factory workers, with the better-educated youth preferring "a minimal lifestyle known as 'lying flat', doing just enough to get by" over "the rat race of China Inc", undermining the model of "state-subsidised investment in production capacity and low labour costs".</p><p>👷‍♀️ The US labour market <a href="https://www.wsj.com/amp/articles/labor-market-mystery-where-are-the-older-gen-z-workers-11668278379">has returned</a> to pre-pandemic rates of participation, except for people aged over 55 and "about half a million workers in their early 20s", who have either decided to study because of pandemic disruptions in 2020, or have become "disconnected from work, for reasons that include child care, the toll of long Covid, fear of catching Covid-19 and mental health".</p><p>🏖️ "Sam Bankman-Fried's FTX, his parents and senior executives of the failed cryptocurrency exchange <a href="https://www.reuters.com/technology/exclusive-bankman-frieds-ftx-parents-bought-bahamas-property-worth-121-mln-2022-11-22/">bought at least 19 properties</a> worth nearly $121 million in the Bahamas over the past two years, official property records show."</p>
+</div>
+<div class="gh-canvas">
+<footer class="single-footer">
+<div class="single-footer-left">
+<div class="navigation navigation-previous">
+<a class="navigation-link" href="/less-effective-altruism/" aria-label="Previous post">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon navigation-icon">
+<path d="M26.667 14.667v2.667h-16L18 24.667l-1.893 1.893L5.547 16l10.56-10.56L18 7.333l-7.333 7.333h16z"></path>
+</svg> </a>
+</div>
+</div>
+<div class="single-footer-middle">
+</div>
+<div class="single-footer-right">
+<div class="navigation navigation-next">
+<a class="navigation-link" href="/believing-in-bigfoot/" aria-label="Next post">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon navigation-icon">
+<path d="M5.333 14.667v2.667h16L14 24.667l1.893 1.893L26.453 16 15.893 5.44 14 7.333l7.333 7.333h-16z"></path>
+</svg> </a>
+</div>
+</div>
+</footer>
+</div>
+</article>
+<section class="related-wrapper gh-canvas">
+<h3 class="related-title">You might also like...</h3>
+<div class="related-feed">
+<article class="feed public post">
+<div class="feed-calendar">
+<div class="feed-calendar-month">
+03
+</div>
+<div class="feed-calendar-day">
+Feb
+</div>
+</div>
+<h2 class="feed-title">False narratives</h2>
+<div class="feed-right">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon icon-star">
+<path d="M6 8v-2c0-3.313 2.687-6 6-6 3.312 0 6 2.687 6 6v2h-2v-2c0-2.206-1.795-4-4-4s-4 1.794-4 4v2h-2zm-3 2v14h18v-14h-18z" /></path>
+</svg> <div class="feed-length">
+6 min read
+</div>
+</div>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon feed-icon">
+<path d="M11.453 22.107L17.56 16l-6.107-6.12L13.333 8l8 8-8 8-1.88-1.893z"></path>
+</svg>
+<a class="u-permalink" href="/false-narratives/" aria-label="False narratives"></a>
+</article> <article class="feed public post">
+<div class="feed-calendar">
+<div class="feed-calendar-month">
+01
+</div>
+<div class="feed-calendar-day">
+Feb
+</div>
+</div>
+<h2 class="feed-title">Immaculate disinflation</h2>
+<div class="feed-right">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon icon-star">
+<path d="M6 8v-2c0-3.313 2.687-6 6-6 3.312 0 6 2.687 6 6v2h-2v-2c0-2.206-1.795-4-4-4s-4 1.794-4 4v2h-2zm-3 2v14h18v-14h-18z" /></path>
+</svg> <div class="feed-length">
+4 min read
+</div>
+</div>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon feed-icon">
+<path d="M11.453 22.107L17.56 16l-6.107-6.12L13.333 8l8 8-8 8-1.88-1.893z"></path>
+</svg>
+<a class="u-permalink" href="/immaculate-disinflation/" aria-label="Immaculate disinflation"></a>
+</article> <article class="feed public post">
+<div class="feed-calendar">
+<div class="feed-calendar-month">
+30
+</div>
+<div class="feed-calendar-day">
+Jan
+</div>
+</div>
+<h2 class="feed-title">Covid and obesity</h2>
+<div class="feed-right">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon icon-star">
+<path d="M6 8v-2c0-3.313 2.687-6 6-6 3.312 0 6 2.687 6 6v2h-2v-2c0-2.206-1.795-4-4-4s-4 1.794-4 4v2h-2zm-3 2v14h18v-14h-18z" /></path>
+</svg> <div class="feed-length">
+5 min read
+</div>
+</div>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon feed-icon">
+<path d="M11.453 22.107L17.56 16l-6.107-6.12L13.333 8l8 8-8 8-1.88-1.893z"></path>
+</svg>
+<a class="u-permalink" href="/covid-and-obesity/" aria-label="Covid and obesity"></a>
+</article> <article class="feed public post">
+<div class="feed-calendar">
+<div class="feed-calendar-month">
+27
+</div>
+<div class="feed-calendar-day">
+Jan
+</div>
+</div>
+<h2 class="feed-title">The Boomer ascendancy</h2>
+<div class="feed-right">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon icon-star">
+<path d="M6 8v-2c0-3.313 2.687-6 6-6 3.312 0 6 2.687 6 6v2h-2v-2c0-2.206-1.795-4-4-4s-4 1.794-4 4v2h-2zm-3 2v14h18v-14h-18z" /></path>
+</svg> <div class="feed-length">
+4 min read
+</div>
+</div>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon feed-icon">
+<path d="M11.453 22.107L17.56 16l-6.107-6.12L13.333 8l8 8-8 8-1.88-1.893z"></path>
+</svg>
+<a class="u-permalink" href="/the-boomer-ascendancy/" aria-label="The Boomer ascendancy"></a>
+</article> <article class="feed public post">
+<div class="feed-calendar">
+<div class="feed-calendar-month">
+25
+</div>
+<div class="feed-calendar-day">
+Jan
+</div>
+</div>
+<h2 class="feed-title">Why not the coin?</h2>
+<div class="feed-right">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon icon-star">
+<path d="M6 8v-2c0-3.313 2.687-6 6-6 3.312 0 6 2.687 6 6v2h-2v-2c0-2.206-1.795-4-4-4s-4 1.794-4 4v2h-2zm-3 2v14h18v-14h-18z" /></path>
+</svg> <div class="feed-length">
+5 min read
+</div>
+</div>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon feed-icon">
+<path d="M11.453 22.107L17.56 16l-6.107-6.12L13.333 8l8 8-8 8-1.88-1.893z"></path>
+</svg>
+<a class="u-permalink" href="/why-not-the-coin/" aria-label="Why not the coin?"></a>
+</article> </div>
+</section>
+</main>
+</div>
+<footer class="gh-foot gh-outer">
+<div class="gh-foot-inner gh-inner">
+<div class="gh-copyright">
+The Context © 2023
+</div>
+<nav class="gh-foot-menu">
+<ul class="nav">
+<li class="nav-sign-up"><a href="#/portal/">Sign up</a></li>
+<li class="nav-privacy"><a href="https://thecontext.au/privacy/">Privacy</a></li>
+<li class="nav-terms"><a href="https://thecontext.au/terms/">Terms</a></li>
+<li class="nav-contact"><a href="https://thecontext.au/contact/">Contact</a></li>
+</ul>
+</nav>
+<div class="gh-powered-by">
+<a href="https://ghost.org/" target="_blank" rel="noopener">Powered by Ghost</a>
+</div>
+</div>
+</footer>
+</div>
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="pswp__bg"></div>
+<div class="pswp__scroll-wrap">
+<div class="pswp__container">
+<div class="pswp__item"></div>
+<div class="pswp__item"></div>
+<div class="pswp__item"></div>
+</div>
+<div class="pswp__ui pswp__ui--hidden">
+<div class="pswp__top-bar">
+<div class="pswp__counter"></div>
+<button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+<button class="pswp__button pswp__button--share" title="Share"></button>
+<button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+<button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+<div class="pswp__preloader">
+<div class="pswp__preloader__icn">
+<div class="pswp__preloader__cut">
+<div class="pswp__preloader__donut"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+<div class="pswp__share-tooltip"></div>
+</div>
+<button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)"></button>
+<button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)"></button>
+<div class="pswp__caption">
+<div class="pswp__caption__center"></div>
+</div>
+</div>
+</div>
+</div>
+<script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous">
+</script>
+<script src='/assets/built/main.min.js?v=b776f2a215'></script>
+</body>
+</html>

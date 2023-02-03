@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html class="theme-light" lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Financial geniuses</title>
+<link rel="stylesheet" href="/assets/built/screen.css?v=b776f2a215">
+<meta name="description" content="SBF is but the latest in a long line of financial frauds; just how easy was it to make money trading against SBF; wither twitter?; and we live in a time of artificial scarcity." />
+<link rel="icon" href="https://thecontext.au/content/images/size/w256h256/2022/06/less-noise-square.png" type="image/png" />
+<link rel="canonical" href="https://thecontext.au/financial-geniuses/" />
+<meta name="referrer" content="no-referrer-when-downgrade" />
+<meta property="og:site_name" content="The Context" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Financial geniuses" />
+<meta property="og:description" content="SBF is but the latest in a long line of financial frauds; just how easy was it to make money trading against SBF; wither twitter?; and we live in a time of artificial scarcity." />
+<meta property="og:url" content="https://thecontext.au/financial-geniuses/" />
+<meta property="og:image" content="https://thecontext.au/content/images/2022/12/crypto-cult-1.jpg" />
+<meta property="article:published_time" content="2022-12-13T22:30:01.000Z" />
+<meta property="article:modified_time" content="2022-12-13T22:30:01.000Z" />
+<meta property="article:tag" content="Newsletter" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Financial geniuses" />
+<meta name="twitter:description" content="SBF is but the latest in a long line of financial frauds; just how easy was it to make money trading against SBF; wither twitter?; and we live in a time of artificial scarcity." />
+<meta name="twitter:url" content="https://thecontext.au/financial-geniuses/" />
+<meta name="twitter:image" content="https://thecontext.au/content/images/2022/12/crypto-cult-1.jpg" />
+<meta name="twitter:label1" content="Written by" />
+<meta name="twitter:data1" content="Justin Pyvis" />
+<meta name="twitter:label2" content="Filed under" />
+<meta name="twitter:data2" content="Newsletter" />
+<meta name="twitter:site" content="@TheContextAU" />
+<meta name="twitter:creator" content="@JustinPyvis" />
+<meta property="og:image:width" content="1008" />
+<meta property="og:image:height" content="504" />
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "publisher": {
+        "@type": "Organization",
+        "name": "The Context",
+        "url": "https://thecontext.au/",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://thecontext.au/content/images/size/w256h256/2022/06/less-noise-square.png",
+            "width": 60,
+            "height": 60
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": "Justin Pyvis",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://thecontext.au/content/images/2022/12/575d216122e20ae511b7ebaad30346f424356f4155c2da4e30bb757e497d5a19.png",
+            "width": 100,
+            "height": 100
+        },
+        "url": "https://thecontext.au/author/justin/",
+        "sameAs": [
+            "https://thecontext.au",
+            "https://twitter.com/JustinPyvis"
+        ]
+    },
+    "headline": "Financial geniuses",
+    "url": "https://thecontext.au/financial-geniuses/",
+    "datePublished": "2022-12-13T22:30:01.000Z",
+    "dateModified": "2022-12-13T22:30:01.000Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://thecontext.au/content/images/2022/12/crypto-cult-1.jpg",
+        "width": 1008,
+        "height": 504
+    },
+    "keywords": "Newsletter",
+    "description": "SBF is but the latest in a long line of financial frauds; just how easy was it to make money trading against SBF; wither twitter?; and we live in a time of artificial scarcity.",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://thecontext.au/"
+    }
+}
+    </script>
+<meta name="generator" content="Ghost 5.33" />
+<link rel="alternate" type="application/rss+xml" title="The Context" href="https://thecontext.au/rss/" />
+<script defer src="https://cdn.jsdelivr.net/ghost/sodo-search@~1.1/umd/sodo-search.min.js" data-key="1b7c90b45ab20358e47646936f" data-styles="https://cdn.jsdelivr.net/ghost/sodo-search@~1.1/umd/main.css" data-sodo-search="https://thecontext.au/" crossorigin="anonymous"></script>
+<link href="https://thecontext.au/webmentions/receive/" rel="webmention" />
+<script defer src="/public/cards.min.js?v=b776f2a215"></script>
+<link rel="stylesheet" type="text/css" href="/public/cards.min.css?v=b776f2a215">
+<style>
+    .logo-text {
+    color: var(--primary-text-color);
+    font-size: 1.8rem;
+    font-weight: 800;
+}
+    blockquote:not([class]) {
+    margin: 2.8rem 0;
+    padding: 0 3rem;
+    border-left: 5px solid var(--brand-color);
+    color: var(--primary-text-color);
+    font-size: 1.9rem;
+    font-style: italic;
+    line-height: 1.5;
+    font-weight: 500;
+    letter-spacing: -0.03rem;
+    background-color: var(--white-color);
+}
+	.gh-content>blockquote+*,.gh-content>hr+*{
+    margin-top:0.5rem
+    }
+</style><style>:root {--ghost-accent-color: #487f7e;}</style>
+</head>
+<body class='post-template tag-newsletter is-head-middle-logo'>
+<div class="site">
+<header id="gh-head" class="gh-head gh-outer">
+<div class="gh-head-inner gh-inner">
+<div class="gh-head-brand">
+<div class="gh-head-brand-wrapper">
+<a class="gh-head-logo" href="https://thecontext.au">
+The Context
+</a>
+</div>
+<button class="gh-search gh-icon-btn" data-ghost-search><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" width="20" height="20"><path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg></button>
+<button class="gh-burger"></button>
+</div>
+<nav class="gh-head-menu">
+<ul class="nav">
+<li class="nav-home"><a href="https://thecontext.au/">Home</a></li>
+<li class="nav-about"><a href="https://thecontext.au/about/">About</a></li>
+</ul>
+</nav>
+<div class="gh-head-actions">
+<button class="gh-search gh-icon-btn" data-ghost-search><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" width="20" height="20"><path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg></button>
+</div>
+</div>
+</header>
+<div class="site-content">
+<main class="site-main">
+<article class="single post tag-newsletter">
+<header class="single-header gh-canvas">
+<div class="single-meta">
+<span class="single-meta-item single-meta-date">
+<time datetime="2022-12-14">
+14 Dec
+</time>
+</span>
+<span class="single-meta-item single-meta-length">
+4 min read
+</span>
+<span class="single-meta-item single-meta-tag">
+<a class="post-tag post-tag-newsletter" href="/tag/newsletter/">
+Newsletter
+</a>
+</span>
+</div>
+<h1 class="single-title">Financial geniuses</h1>
+<div class="single-excerpt">
+SBF is but the latest in a long line of financial frauds; just how easy was it to make money trading against SBF; wither twitter?; and we live in a time of artificial scarcity.
+</div>
+<figure class="single-media kg-width-wide">
+<div class="u-placeholder horizontal">
+<img class="u-object-fit" srcset="/content/images/size/w400/2022/12/crypto-cult-1.jpg 400w,
+/content/images/size/w750/2022/12/crypto-cult-1.jpg 750w,
+/content/images/size/w960/2022/12/crypto-cult-1.jpg 960w,
+/content/images/size/w1140/2022/12/crypto-cult-1.jpg 1140w" sizes="(min-width: 1200px) 920px, 92vw" src="/content/images/size/w960/2022/12/crypto-cult-1.jpg" alt="Financial geniuses">
+</div>
+<figcaption>Crypto can be very cultish, leaving people exposed to so-called "financial geniuses" who are anything but. <a href="https://www.ft.com/content/9e787670-6aa7-4479-934f-f4a9fedf4829">Source</a>.</figcaption>
+</figure>
+</header>
+<div class="single-content gh-content gh-canvas">
+<h2 id="1%E2%80%94financial-geniuses">1—Financial geniuses</h2><p>Sam Bankman-Fried (SBF) <a href="https://abcnews.go.com/US/sam-bankman-fried-arrested-bahamas-prosecutor/story?id=95105184">was arrested</a> in the Bahamas yesterday, "following receipt of formal notification from the United States that it has filed criminal charges against SBF and is likely to request his extradition". It turns out the leadership even had a group chat <a href="https://www.afr.com/companies/financial-services/ftx-s-inner-circle-had-a-secret-chat-group-called-wirefraud-20221213-p5c5sx">called</a> "Wirefraud" – you couldn't make this up. 🙄</p><p>But the fall of FTX and SBF was simply the most spectacular in a long line of people who decided to use "finance to profit from public interest in that technology". And they all had something in common:</p><blockquote>"Zhu and Davies began Three Arrows as conventional foreign exchange traders, years before they began trading crypto. Mashinsky built what was basically an unregulated but otherwise conventional bank, hoping to profit from crypto trading and speculation. Steve Ehrlich's past experience was running E-Trade's professional brokerage services.<br><br>Do Kwon is the arguable exception, having built an actual blockchain. But Terra didn't bring any new decentralization technology to the table, only financial engineering flim-flam and the same artificially inflated yields that drove growth at Celsius and Voyager. (SBF was also a creature of the finance world, emerging from the trading firm Jane Street. He frequently admitted, including on an infamous 'Odd Lots' episode, that he barely cared about the substance of crypto technology – only the profits to be reaped from trading it.)"</blockquote><p>All of them were touted as "financial geniuses" but were instead frauds, propped up by "big-money investors who poured jet fuel onto... flaming ineptitude, creating a cataclysm".</p><p>You can read more via David Morris, who provides plenty of background on "The Four Horsemen of the Cryptocalypse" <a href="https://www.coindesk.com/consensus-magazine/2022/12/05/do-kwon-su-zhu-alex-mashinsky-stephen-ehrlich-most-influential-2022/">here</a> (~10 minute read). </p><hr><h2 id="2%E2%80%94flaming-ineptitude">2—Flaming ineptitude</h2><p>How easy was it to extract trading gains from SBF and his crypto exchange, FTX? Anonymous trader 'knot here' recently shared how they achieved eye-watering gains, a feat made remarkably easy by SBF's predictability – it wasn't hard to find out who was on the other side of the "many exotic derivatives" offered by FTX, what they were going to do, and best of all, exactly when they were going to do it (something other exchanges keep private):</p><blockquote>"To ensure that these tokens retain the advertised leverage at some point in time, FTX would rebalance these tokens everyday at 00:02 UTC. To which they would inject capital to the respective perpetual futures market to reback the "Leveraged Token". It would take about 10 minutes for all of these leveraged tokens to go back "out of balance", almost always against the token holders. <br><br>However, this is extremely stupid, and why these funds that invested in Sam really need to have a look at themselves, as I'm a literal street lad that found this anomaly and was able to quantify it and extract exponential value quite easily. <br><br>By finding all of the leverage tokens and grouping them respectively to their underlying perp, meant I could literally use an excel program with VBA to figure out how much each perp is out of balance respective to their Leverage Tokens."</blockquote><p>When SBF (or someone at Alameda) eventually intervened, it made it even easier because "I got to vs SBF directly as well as the systematic bot.". </p><p>You can read the full twitter thread from 'knot here', <a href="https://threadreaderapp.com/thread/1601800521798799361.html">here</a> (~6 minute read). If anyone is still holding out for some of FTX's missing billions to show up, don't hold your breath!</p><hr><h2 id="3%E2%80%94wither-twitter">3—Wither Twitter?</h2><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://thecontext.au/content/images/2022/12/image-6.png" class="kg-image" alt loading="lazy" width="714" height="537" srcset="https://thecontext.au/content/images/size/w600/2022/12/image-6.png 600w, https://thecontext.au/content/images/2022/12/image-6.png 714w"><figcaption>Elon Musk and his backers will be hoping for a lot of Twitter Blue subscriptions to offset a decline like this. <a href="https://www.wsj.com/articles/twitters-advertising-truth-hurts-11670706720">Source</a>.</figcaption></figure><hr><h2 id="4%E2%80%94a-time-of-artificial-scarcity">4—A time of artificial scarcity</h2><p>What do timber, butter, computer chips, passenger cars, fibre optic cables, electronics, pet supplies and garden items all have in common? They were, at one point over the last two years (and some still are), scarce. According to Will Rinehart, much of it was largely preventable:</p><blockquote>"As this long list makes clear, disruptions to production and trade directly translate into material deprivation and hardship. But they also bring into focus another important issue: that we are living at a time of artificial scarcity.<br>...<br>While some of that scarcity comes from technological limitations which will require innovation, a good deal of it is self-inflicted. What is needed is a reversal of the policies that created these scarcity trends. What is needed is an agenda based on abundance."</blockquote><p>Rinehart goes on to note that scarcity is the "true state of nature", and only "in the last 200 years or so, have we been able to build abundance". So how have we regressed? Energy prices and the expansion of the regulatory state, which you can read all about in Rinehart's full article <a href="https://www.discoursemagazine.com/ideas/2022/12/07/we-need-an-abundance-agenda/">here</a> (~10 minute read).</p><hr><h2 id="5%E2%80%94further-reading">5—Further reading...</h2><p>📉 Uh oh: Binance, the world's largest crypto exchange and one-time rival of FTX, has "<a href="https://www.reuters.com/technology/binance-sees-withdrawals-19-billion-last-24-hours-data-firm-nansen-says-2022-12-13/">temporarily paused</a>" the ability to withdraw funds after withdrawals spiked following doubts about its reserves and potential criminal legal action.</p><p>☢️ One step closer but still a long way off: "In <a href="https://au.news.yahoo.com/energy-department-announces-nuclear-fusion-milestone-clean-energy-source-that-could-revolutionize-the-world-165844246.html">an experiment last week</a>, using a process called inertial confinement fusion, in which a pellet of hydrogen plasma is bombarded by the world’s biggest laser, researchers at the lab in Livermore, Calif., were able to produce more energy than they put into the laser, the first time this has ever been achieved."</p><p>⚔️ "Bangladesh <a href="https://indianexpress.com/article/opinion/columns/bangladesh-razor-edge-india-looming-economic-crisis-political-instability-8317080/">is at the cusp</a> of a political shift that it has not witnessed since 2009. Hidden in this old-school, high-tension politics between two known rivals and a politicised military are unexpected signals that indicate deeper tumult."</p><p>🏝️ The lucky country: "Australia's <a href="https://twitter.com/SamRoggeveen/status/1602142197029425158">single biggest</a> defence asset is distance."</p><p>💸 Coming soon to a <a href="https://www.ft.com/content/24882347-4397-4890-8bd6-bbb8d5dae8cb">central bank near you</a>: "With central banks around the world raising interest rates sharply to tackle soaring inflation and unwinding their massive bond purchases, economists expect many of them to make sizeable losses... Lower dividends from central banks will hit public finances. If the losses get too big, they may need state bailouts that risk increasing political pressure and threatening their independence."</p>
+</div>
+<div class="gh-canvas">
+<footer class="single-footer">
+<div class="single-footer-left">
+<div class="navigation navigation-previous">
+<a class="navigation-link" href="/that-cold-and-lonely-place/" aria-label="Previous post">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon navigation-icon">
+<path d="M26.667 14.667v2.667h-16L18 24.667l-1.893 1.893L5.547 16l10.56-10.56L18 7.333l-7.333 7.333h16z"></path>
+</svg> </a>
+</div>
+</div>
+<div class="single-footer-middle">
+</div>
+<div class="single-footer-right">
+<div class="navigation navigation-next">
+<a class="navigation-link" href="/plenty-of-questions/" aria-label="Next post">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon navigation-icon">
+<path d="M5.333 14.667v2.667h16L14 24.667l1.893 1.893L26.453 16 15.893 5.44 14 7.333l7.333 7.333h-16z"></path>
+</svg> </a>
+</div>
+</div>
+</footer>
+</div>
+</article>
+<section class="related-wrapper gh-canvas">
+<h3 class="related-title">You might also like...</h3>
+<div class="related-feed">
+<article class="feed public post">
+<div class="feed-calendar">
+<div class="feed-calendar-month">
+03
+</div>
+<div class="feed-calendar-day">
+Feb
+</div>
+</div>
+<h2 class="feed-title">False narratives</h2>
+<div class="feed-right">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon icon-star">
+<path d="M6 8v-2c0-3.313 2.687-6 6-6 3.312 0 6 2.687 6 6v2h-2v-2c0-2.206-1.795-4-4-4s-4 1.794-4 4v2h-2zm-3 2v14h18v-14h-18z" /></path>
+</svg> <div class="feed-length">
+6 min read
+</div>
+</div>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon feed-icon">
+<path d="M11.453 22.107L17.56 16l-6.107-6.12L13.333 8l8 8-8 8-1.88-1.893z"></path>
+</svg>
+<a class="u-permalink" href="/false-narratives/" aria-label="False narratives"></a>
+</article> <article class="feed public post">
+<div class="feed-calendar">
+<div class="feed-calendar-month">
+01
+</div>
+<div class="feed-calendar-day">
+Feb
+</div>
+</div>
+<h2 class="feed-title">Immaculate disinflation</h2>
+<div class="feed-right">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon icon-star">
+<path d="M6 8v-2c0-3.313 2.687-6 6-6 3.312 0 6 2.687 6 6v2h-2v-2c0-2.206-1.795-4-4-4s-4 1.794-4 4v2h-2zm-3 2v14h18v-14h-18z" /></path>
+</svg> <div class="feed-length">
+4 min read
+</div>
+</div>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon feed-icon">
+<path d="M11.453 22.107L17.56 16l-6.107-6.12L13.333 8l8 8-8 8-1.88-1.893z"></path>
+</svg>
+<a class="u-permalink" href="/immaculate-disinflation/" aria-label="Immaculate disinflation"></a>
+</article> <article class="feed public post">
+<div class="feed-calendar">
+<div class="feed-calendar-month">
+30
+</div>
+<div class="feed-calendar-day">
+Jan
+</div>
+</div>
+<h2 class="feed-title">Covid and obesity</h2>
+<div class="feed-right">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon icon-star">
+<path d="M6 8v-2c0-3.313 2.687-6 6-6 3.312 0 6 2.687 6 6v2h-2v-2c0-2.206-1.795-4-4-4s-4 1.794-4 4v2h-2zm-3 2v14h18v-14h-18z" /></path>
+</svg> <div class="feed-length">
+5 min read
+</div>
+</div>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon feed-icon">
+<path d="M11.453 22.107L17.56 16l-6.107-6.12L13.333 8l8 8-8 8-1.88-1.893z"></path>
+</svg>
+<a class="u-permalink" href="/covid-and-obesity/" aria-label="Covid and obesity"></a>
+</article> <article class="feed public post">
+<div class="feed-calendar">
+<div class="feed-calendar-month">
+27
+</div>
+<div class="feed-calendar-day">
+Jan
+</div>
+</div>
+<h2 class="feed-title">The Boomer ascendancy</h2>
+<div class="feed-right">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon icon-star">
+<path d="M6 8v-2c0-3.313 2.687-6 6-6 3.312 0 6 2.687 6 6v2h-2v-2c0-2.206-1.795-4-4-4s-4 1.794-4 4v2h-2zm-3 2v14h18v-14h-18z" /></path>
+</svg> <div class="feed-length">
+4 min read
+</div>
+</div>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon feed-icon">
+<path d="M11.453 22.107L17.56 16l-6.107-6.12L13.333 8l8 8-8 8-1.88-1.893z"></path>
+</svg>
+<a class="u-permalink" href="/the-boomer-ascendancy/" aria-label="The Boomer ascendancy"></a>
+</article> <article class="feed public post">
+<div class="feed-calendar">
+<div class="feed-calendar-month">
+25
+</div>
+<div class="feed-calendar-day">
+Jan
+</div>
+</div>
+<h2 class="feed-title">Why not the coin?</h2>
+<div class="feed-right">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon icon-star">
+<path d="M6 8v-2c0-3.313 2.687-6 6-6 3.312 0 6 2.687 6 6v2h-2v-2c0-2.206-1.795-4-4-4s-4 1.794-4 4v2h-2zm-3 2v14h18v-14h-18z" /></path>
+</svg> <div class="feed-length">
+5 min read
+</div>
+</div>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" class="icon feed-icon">
+<path d="M11.453 22.107L17.56 16l-6.107-6.12L13.333 8l8 8-8 8-1.88-1.893z"></path>
+</svg>
+<a class="u-permalink" href="/why-not-the-coin/" aria-label="Why not the coin?"></a>
+</article> </div>
+</section>
+</main>
+</div>
+<footer class="gh-foot gh-outer">
+<div class="gh-foot-inner gh-inner">
+<div class="gh-copyright">
+The Context © 2023
+</div>
+<nav class="gh-foot-menu">
+<ul class="nav">
+<li class="nav-sign-up"><a href="#/portal/">Sign up</a></li>
+<li class="nav-privacy"><a href="https://thecontext.au/privacy/">Privacy</a></li>
+<li class="nav-terms"><a href="https://thecontext.au/terms/">Terms</a></li>
+<li class="nav-contact"><a href="https://thecontext.au/contact/">Contact</a></li>
+</ul>
+</nav>
+<div class="gh-powered-by">
+<a href="https://ghost.org/" target="_blank" rel="noopener">Powered by Ghost</a>
+</div>
+</div>
+</footer>
+</div>
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="pswp__bg"></div>
+<div class="pswp__scroll-wrap">
+<div class="pswp__container">
+<div class="pswp__item"></div>
+<div class="pswp__item"></div>
+<div class="pswp__item"></div>
+</div>
+<div class="pswp__ui pswp__ui--hidden">
+<div class="pswp__top-bar">
+<div class="pswp__counter"></div>
+<button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+<button class="pswp__button pswp__button--share" title="Share"></button>
+<button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+<button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+<div class="pswp__preloader">
+<div class="pswp__preloader__icn">
+<div class="pswp__preloader__cut">
+<div class="pswp__preloader__donut"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+<div class="pswp__share-tooltip"></div>
+</div>
+<button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)"></button>
+<button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)"></button>
+<div class="pswp__caption">
+<div class="pswp__caption__center"></div>
+</div>
+</div>
+</div>
+</div>
+<script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous">
+</script>
+<script src='/assets/built/main.min.js?v=b776f2a215'></script>
+</body>
+</html>
